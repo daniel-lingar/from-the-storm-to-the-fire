@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Chapter 1 — Born Alert"
+title: "Chapter 1 — The Storm Outside"
 chapter: 1
 act: "Act I — Wiring"
 chapter_image: /from-the-storm-to-the-fire/assets/images/ch01-child-fear.jpg
@@ -14,69 +14,85 @@ chapter_image: /from-the-storm-to-the-fire/assets/images/ch01-child-fear.jpg
   <img src="/from-the-storm-to-the-fire/assets/images/ch01-child-fear.jpg" alt="Chapter 1" style="width: 100%; height: auto; display: block;">
 </div>
 
-# Chapter 1 — Born Alert
+# CHAPTER 1 — THE STORM OUTSIDE
 
-<p class="chapter-orientation">The NICU, premature birth, and the nervous system's first lesson in survival through stillness.</p>
+The stories they told me later only confirmed what my body already knew—I wasn’t meant to be here.
 
-They say I was born early.
+A few days after birth, my tiny systems began shutting down. They called a priest to my incubator while monitors screamed warnings. He gave me last rites. Then something shifted—maybe stubbornness, maybe grace—and my vitals started rising. The priest’s prayers hung in the air while the machines registered my decision to stay.
 
-I’ve always felt late.
+I didn’t know it then, but that box became my blueprint.
 
-Seven months in, dragged out before I was finished. Three pounds, four ounces—barely assembled, lungs unprepared for air, nerves unprepared for light. Instead of arms, I was placed in glass and wires. Machines breathed for me. Monitors watched me closer than any human ever could.
+Don’t cry too loud.
 
-I don’t remember the NICU.
+Don’t take up too much space.
 
-But my body does.
+Stay still and maybe you’ll survive.
 
-It remembers the distance. The way closeness still tightens my chest. The way noise crawls under my skin. The sense that life has always been happening just beyond a transparent wall—visible, loud, but never fully reachable.
+That’s how my life started—with distance. First the distance of an unfinished journey, then the distance between life and death, and finally the distance of glass walls keeping the world at bay.
 
-A few days after I was born, my systems began to fail. Alarms sounded. A priest was called to the incubator. Last rites were spoken over a body that hadn’t yet learned how to live. Words meant to prepare a soul for leaving were spoken before I’d even arrived.
+And that distance never left.
 
-I don’t know what changed.
+That learned stillness, that bracing silence, was my first refuge when the noise came years later.
 
-Maybe stubbornness.  
-Maybe grace.  
+The storm arrived when I was five, after my parents split. Mom found someone new—a man whose presence felt like a clenched fist, wiry and mean. Violence moved into our house then, unpredictable and brutal. The screams ripped through the night like thunder too close, rattling the walls of our cramped rental.
 
-Whatever it was, my vitals rose. The machines quieted. The priest left. I stayed.
+I was six, huddled under a thin blanket that smelled of mildew and sweat, twisting it in my fists until my knuckles throbbed. It was all I had to hold back the chaos spilling from the living room. My heart pounded like a trapped bird, each beat whispering, It’s happening again.
 
-That glass box became my first lesson.
+“Please, stop—no!”
 
-Stay still.  
-Stay quiet.  
-Don’t need too much.  
+Mom’s voice cracked through the dark, sharp and desperate, glass breaking mid-scream. I wanted to run to her, shield her somehow, but fear was a vise—cold, tight, locking me in place.
 
-Survive.
+The same total freeze that would hijack my body decades later. If I moved, I’d be next.
 
-Some people learn safety through touch, through warmth, through being held. I learned it through stillness. Through silence. Through not setting off alarms. My nervous system learned early that existence itself could be dangerous—that taking up space might cost me everything.
+We kids caught some of it, but Mom bore the brunt.
 
-I grew, technically. I left the hospital. Life moved forward.
+One night, I heard a snap—like a dry twig—and peeked through the crack in the door. Her arm hung wrong, limp and swollen, while a towering shape loomed over her, yelling about nothing.
 
-But something stayed behind in that box.
+The terror didn’t just lock me awake; it followed me into sleep. I wet the bed long after other kids stopped, until I was eleven—a secret shame my body carried, a physical testament to how unsafe I felt deep in my bones, even when I was unconscious.
 
-It shows up when people get too close. When voices rise. When rooms are crowded. My chest tightens. My body braces. I scan for exits without thinking. I don’t relax—I monitor.
+CPS came to school once, asking about bruises, about being hurt at home.
 
-This isn’t fear the way people talk about fear. It’s not panic yet. It’s readiness. A constant low-level alertness, like my body never fully stood down from its first emergency.
+“Only when we are bad,” I mumbled, my sister nodding.
 
-Born watching.  
-Born waiting.  
-Born prepared for things to go wrong.
+I thought it was normal.
 
-I didn’t know it then, but that beginning would echo through everything that came after. Every relationship. Every addiction. Every instinct to disappear rather than demand. Every moment where silence felt safer than truth.
+I thought it was part of learning.
 
-Before the storm ever arrived, I was already wired for it.
+Some nights, we ran.
 
-I didn’t enter the world curious.
+Mom would burst in, eyes wild, hair tangled like she’d fought a windstorm.
 
-I entered it alert.
+“Go, now!” she’d rasp, tearing the blanket off us.
 
----
+We bolted barefoot into the dark. Gravel tore at my feet, sharp and wet, each step a jolt of pain while my lungs burned on frozen air. My brother was safe with Dad then, missing the mess.
 
+We’d sprint for Uncle’s—a big, creaky two-story with tall ceilings and peeling paint—but Mom always lagged.
 
----
+I’d glance back and see her pulled by a shadow, an arm snagging her elbow.
 
-<div class="chapter-nav">
+Why doesn’t she keep running? I’d think, chest tight.
 
----
+It lasted six months.
+
+Then the relationship ended.
+
+But terror doesn’t leave when the man does.
+
+It burrows in.
+
+Around ten, sleep itself became another battleground. I started experiencing sleep paralysis—waking frozen, unable to move or scream, often feeling an intense, suffocating presence in the room. My body had learned stillness in the incubator and terror under the blanket. Now it was carrying both into the night.
+
+A year later, the man was dead.
+
+Mom cried into the phone when Grandma told her.
+
+I stood there, waiting for relief.
+
+None came.
+
+Just static in my head.
+
+Even in death, he left me with storms.
 
 <div class="chapter-nav">
   <a href="/from-the-storm-to-the-fire/">← Home</a> | <a href="/from-the-storm-to-the-fire/chapters.html">Table of Contents</a> | <a href="/from-the-storm-to-the-fire/chapters/chapter-02-when-safety-shattered.html">Chapter 2 →</a>
