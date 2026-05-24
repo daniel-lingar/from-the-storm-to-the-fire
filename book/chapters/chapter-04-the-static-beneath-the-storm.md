@@ -38,7 +38,9 @@ Therapy finally gave me the language to understand what had always been there:
 
 Complex PTSD.
 
-Manipulation.
+Survival patterns.
+
+Manipulation I had lived through, learned from, and sometimes repeated without understanding what I was carrying.
 
 A brain and body that had been on danger since birth.
 
