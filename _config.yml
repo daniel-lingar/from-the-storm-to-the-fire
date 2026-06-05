@@ -1,9 +1,9 @@
 # Site settings
 title: From the Storm to the Fire
-description: >- # this means to ignore newlines until "baseurl:"
+description: >-
   A trauma memoir told backwards — from survival to origin. A raw, neuroscience-grounded account of Complex PTSD and recovery.
-baseurl: "/from-the-storm-to-the-fire" # the subpath of your site, e.g. /blog
-url: "https://mave9055.github.io" # the base hostname & protocol for your site
+baseurl: "/from-the-storm-to-the-fire"
+url: "https://daniel-lingar.github.io"
 
 # Author information
 author:
@@ -23,7 +23,5 @@ twitter:
 # Navigation links for the header
 header_pages:
   - index.md
-
-
   - chapters.md
   - about.md
