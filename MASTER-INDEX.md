@@ -1,17 +1,19 @@
 # MASTER INDEX — Daniel Lingar's Complete Project Ecosystem
 
 **Last Updated:** July 18, 2026  
-**Purpose:** Single source of truth for all repos, content, and project relationships  
+**Purpose:** Single source of truth for trauma-informed projects, curriculum, and business infrastructure  
 **For:** Quick reference when memory/focus is difficult (CPTSD support)
 
 ---
 
 ## Overview
 
-You have **40+ repositories** across three main project clusters:
-1. **The Memoir** (From the Storm to the Fire)
+You have **18 core repositories** across five focused clusters:
+1. **The Memoir** — From the Storm to the Fire (FTSTTF)
 2. **What Really Happened (WRH)** — Trauma education curriculum system
-3. **Supporting Projects** — Tools, websites, business infrastructure
+3. **The Rescue Boat (TRB)** — Counter-narratives and trauma education
+4. **C-PTSD Education Platforms** — Tools, websites, educational resources
+5. **Capitol Contracts LLC** — Business infrastructure and implementation
 
 ---
 
@@ -21,12 +23,13 @@ You have **40+ repositories** across three main project clusters:
 **`from-the-storm-to-the-fire`** 
 - https://github.com/daniel-lingar/from-the-storm-to-the-fire
 - **Description:** The complete memoir manuscript, 20 chapters, 4 acts
-- **Status:** COMPLETE & PUBLISHED
+- **Status:** ✅ COMPLETE & PUBLISHED
 - **Key Files:**
   - `updated_book.md` — Full manuscript text (the actual book content)
   - `chapters.md` — Table of contents with chapter descriptions
   - `START-HERE.md` — Project orientation
   - `README-PROJECT.md` — Project structure guide
+  - `MASTER-INDEX.md` — This index
   - Multiple PDF/HTML/EPUB exports (various editions)
 
 ### The Story Structure (20 chapters across 4 acts)
@@ -35,10 +38,10 @@ You have **40+ repositories** across three main project clusters:
 - **Act III (Ch 10-16):** Present Cost — C-PTSD effects, flashbacks, roles, grief
 - **Act IV (Ch 17-20):** Building Agency — safety, regulation, boundaries, integration
 
-### Supporting Book Repositories
+### Supporting FTSTTF Repositories
 - **`from-storm-to-fire-book-production`** — Production workflow (Python)
-- **`fts6-26`** — Variations/compilations
-- **`72026FROMTHESTORMTOTHEFIRE`** — Another variant/archive
+- **`fts6-26`** — Variations/compilations of manuscript and 26 Laws integration
+- **`72026FROMTHESTORMTOTHEFIRE`** — Archive/backup variant
 
 ---
 
@@ -51,6 +54,7 @@ You have **40+ repositories** across three main project clusters:
 - https://github.com/daniel-lingar/wrh-master-platform
 - **Description:** Master platform combining all WRH curriculum materials
 - **Contains:** 30 WRH Pilot sessions, 17 Series sessions, 26 Laws, Glossary, Facilitator Tools
+- **Status:** ✅ ACTIVE — All components in place
 - **Key Files:**
   - `README.md` — Full overview
   - `CAPABILITY_STATEMENT.md` — What Capitol Contracts offers
@@ -58,104 +62,90 @@ You have **40+ repositories** across three main project clusters:
   - `evaluation/` — Assessment tools
   - `check-in/` — Participant check-in materials
 
-#### Original WRH Series Website
+#### Core WRH Repositories
 **`What-Really-Happened`**
 - https://github.com/daniel-lingar/What-Really-Happened
 - **Description:** WRH trauma education series (Version 1.0)
 - **Key Files:**
-  - `facilitator-manual.md` — Complete facilitator guidance
+  - `facilitator-manual.md` — Complete facilitator guidance (29.7 KB)
   - `curriculum.html` — Curriculum display
   - `operations.html` — Operations/logistics
   - `source-map.html` — How it's structured
   - `SESSION_PACKAGES/` — Individual session files
 
-#### WRH Pilot Deployment Package
 **`WRH-Pilot-Deployment-Package`**
 - https://github.com/daniel-lingar/WRH-Pilot-Deployment-Package
 - **Description:** Official 30-session pilot deployment package
-- **Purpose:** Field-testing the WRH system in real environments
+- **Status:** 🔄 IN PROGRESS — Field-testing the WRH system in real environments
+- **Purpose:** Implementation and evaluation of the complete curriculum
 
-#### Other WRH Variants
-- **`wrh-master-curriculum`** — Master curriculum version
-- **`What-Really-Happened-Manual`** — Manual/guide version
-- **`What-Really-Happened-The-True-Story`** — 12-session version
+#### WRH Variants & Specialized Versions
+- **`wrh-master-curriculum`** — Master curriculum compilation
+- **`What-Really-Happened-Manual`** — Manual/guide format
+- **`What-Really-Happened-The-True-Story`** — 12-session psychoeducation curriculum
 - **`what-really-happened-site`** — Web version
 - **`what-really-happened-redesign`** — Updated/modernized design
 - **`top-10-core`** — 5-week introductory version (shorter format)
 - **`wrh-portal`** — Portal/access point
 - **`wrh-program-packet`** — Program materials packet
 
-### Key WRH Supporting Materials
+#### Key WRH Supporting Materials
 - **`26laws`** — "26 Laws of Survival: A clinical map of C-PTSD"
+  - Status: ✅ COMPLETE — Non-coddling, direct framework
 - **`CPTSD-Straight-Facts`** — Educational website on C-PTSD
 - **`trauma-recovery-curriculum`** — General trauma recovery curriculum
 - **`trauma-archive`** — Archive of trauma-related materials
+- **`WRH-PILOT-OPERATING---EVALUATION`** — Pilot operations and evaluation tracking
 
 ---
 
-## CLUSTER 3: THE RESCUE BOAT — Counter-Narratives
+## CLUSTER 3: THE RESCUE BOAT — Counter-Narratives & Trauma Education
 
 ### Primary Repositories
 **`ebook-manuscript`**
 - https://github.com/daniel-lingar/ebook-manuscript
 - **Description:** "The Rescue Boat & Other Counter-Narratives" — trauma education manuscript
-- **Status:** Locked 10-article public edition (v1.0.0)
-- **Contains:** Counter-narratives for trauma education
+- **Status:** 🔄 ACTIVE — Full working project
+- **Contains:** Counter-narratives for trauma education, interactive elements
 
-**`rescue-boat`** (v1.0.0 public edition)
+**`rescue-boat`**
 - https://github.com/daniel-lingar/rescue-boat
-- **Description:** Locked version of The Rescue Boat with 10 articles
+- **Description:** Locked 10-article public edition (v1.0.0)
+- **Status:** ✅ COMPLETE — Stable, published version
 
 **`new-ebook-manuscript`**
 - https://github.com/daniel-lingar/new-ebook-manuscript
-- **Description:** Updated/newer version of the manuscript
+- **Description:** Updated/newer version of The Rescue Boat
+- **Status:** 🔄 ACTIVE — Development in progress
 
 ---
 
-## CLUSTER 4: EDUCATIONAL PLATFORMS & TOOLS
+## CLUSTER 4: C-PTSD EDUCATION PLATFORMS & TOOLS
 
-### C-PTSD Education Sites
-- **`cptsd-education-portal`** — TypeScript-based portal
-- **`cptsd-presentation-web`** — Presentation platform
+### C-PTSD Education Sites & Platforms
+- **`cptsd-education-portal`** — TypeScript-based portal for C-PTSD education
+- **`cptsd-presentation-web`** — Presentation platform for trauma education
 - **`ideal-octo-disco`** — Web app with Nervous System Check-In Tool
-- **`lesson-collection-site`** — Collection of lessons
-- **`nervous-system-marketing`** — Marketing/promotional materials
-
-### Business & Implementation
-- **`capitol-contracts`** — Capitol Contracts LLC official repo (UEI: HH77KN5AV5X7, CAGE: 9ZFJ6)
-  - Non-clinical psychoeducational curriculum developer
-  - Serves recovery, veteran support, reentry, peer-support, institutional education partners
-
-### Pilot & Operations
-- **`WRH-PILOT-OPERATING---EVALUATION`** — Pilot operations and evaluation
+  - Features: Privacy-focused check-in tool for tracking emotional states and notes
+- **`lesson-collection-site`** — Collection of educational lessons
+- **`nervous-system-marketing`** — Marketing/promotional materials for nervous system health
 
 ---
 
-## CLUSTER 5: SUPPORTING PROJECTS
+## CLUSTER 5: CAPITOL CONTRACTS LLC — Business & Implementation
 
-### Technical/Development
-- **`betalectures`** — Beta lecture materials
-- **`ashton-investigation-report`** — Investigation report project
-
-### Craft/Business
-- **`blackline-flameworks`** — Flame-finished hardwood slabs, boards, tables (Clarksville, AR)
-- **`torch-finished-furniture`** — Torch-finished furniture
-
-### Historical/Archive
-- **`horner-archive`** — Civil War microhistory (1864, Floyd Township, Johnson County, AR)
-- **`fort-wolters`** — Fort Wolters Commemorative Lighter archive
-- **`melinda-walker-dossier`** — Dossier/research
-
-### Miscellaneous/Older Projects
-- **`OSINT`** — OSINT research project
-- **`electronics_treasure_hunt`** — Kid-friendly electronics guide
-- **`texas-holdem-sweepstakes`** — Texas Hold'em application
-- **`melody-maker`** — AI music video editor with beat-syncing
-- **`termux-app`** — Android terminal emulator (forked)
-- **`the-hill-series`** — TV series project
-- **`mix`** — Mix of various files
-- **`whatagotgoing`** — Handyman page
-- **`daniel-lingar.github.io`** — GitHub Pages personal site
+### Official Business Repository
+**`capitol-contracts`**
+- https://github.com/daniel-lingar/capitol-contracts
+- **Description:** Capitol Contracts LLC official repository
+- **Status:** ✅ OPERATIONAL
+- **Business Details:**
+  - **UEI:** HH77KN5AV5X7
+  - **CAGE Code:** 9ZFJ6
+  - **NAICS Code:** 611710 (Educational services)
+  - **Email:** capitolcontracts@outlook.com
+  - **Services:** Non-clinical psychoeducational curriculum development and deployment
+  - **Target Partners:** Recovery programs, veteran support, reentry services, peer-support, institutional education
 
 ---
 
@@ -166,14 +156,20 @@ LIVED EXPERIENCE
        ↓
 FROM THE STORM TO THE FIRE (Memoir)
        ↓
-    ┌──┴──┐
-    ↓     ↓
-  WRH    THE RESCUE BOAT
-  (Curriculum)  (Counter-Narratives)
-    ↓
-CAPITOL CONTRACTS LLC (Business/Implementation)
-    ↓
-DEPLOYED PILOTS & PROGRAMS
+    ┌──┴──────────────────────┐
+    ↓                          ↓
+  WRH              THE RESCUE BOAT
+(30+sessions)    (Counter-Narratives)
+    ↓                          ↓
+    └──────────────┬───────────┘
+                   ↓
+    C-PTSD EDUCATION PLATFORMS
+    (Websites, Portals, Tools)
+                   ↓
+    CAPITOL CONTRACTS LLC
+    (Business/Implementation)
+                   ↓
+    DEPLOYED PILOTS & PROGRAMS
 ```
 
 ---
@@ -184,39 +180,44 @@ DEPLOYED PILOTS & PROGRAMS
 |---|---|
 | Full manuscript text | `from-the-storm-to-the-fire/updated_book.md` |
 | Book table of contents | `from-the-storm-to-the-fire/chapters.md` |
-| WRH curriculum sessions | `wrh-master-platform/curriculum/` |
+| 20-chapter chapter descriptions | `from-the-storm-to-the-fire/chapters.md` |
+| WRH curriculum sessions (30+) | `wrh-master-platform/curriculum/` |
 | Facilitator guidance | `What-Really-Happened/facilitator-manual.md` |
-| The 26 Laws of Survival | `26laws/` repo |
-| Rescue Boat articles | `ebook-manuscript/` or `rescue-boat/` |
+| The 26 Laws of Survival (clinical map) | `26laws/` repo |
+| Rescue Boat counter-narratives | `ebook-manuscript/` or `rescue-boat/` |
 | C-PTSD education materials | `CPTSD-Straight-Facts/` or educational portals |
-| Capitol Contracts info | `capitol-contracts/` |
-| Pilot program materials | `WRH-Pilot-Deployment-Package/` |
+| Capitol Contracts info & credentials | `capitol-contracts/` |
+| Pilot program materials (30 sessions) | `WRH-Pilot-Deployment-Package/` |
 | Business capability statement | `wrh-master-platform/CAPABILITY_STATEMENT.md` |
+| Nervous system check-in tool | `ideal-octo-disco/` |
+| Top 10 Core (5-week intro) | `top-10-core/` |
 
 ---
 
 ## Status Summary
 
-| **Project** | **Status** |
-|---|---|
-| From the Storm to the Fire | ✅ COMPLETE — Published in multiple formats |
-| WRH Master Platform | ✅ ACTIVE — All components in place |
-| The Rescue Boat | ✅ COMPLETE — v1.0.0 locked public edition |
-| 26 Laws | ✅ COMPLETE — Map of C-PTSD |
-| Capitol Contracts LLC | ✅ OPERATIONAL — UEI registered, CAGE code assigned |
-| Educational Portals | 🔄 ACTIVE — Multiple platforms |
-| Pilot Programs | 🔄 IN PROGRESS — Field testing WRH system |
+| **Project** | **Status** | **Last Updated** |
+|---|---|---|
+| From the Storm to the Fire | ✅ COMPLETE | Published in multiple formats |
+| WRH Master Platform | ✅ ACTIVE | All components in place |
+| WRH Pilot Deployment Package | 🔄 IN PROGRESS | Field testing in real environments |
+| The Rescue Boat (v1.0.0) | ✅ COMPLETE | Locked public edition |
+| The Rescue Boat (new version) | 🔄 ACTIVE | Development in progress |
+| 26 Laws of Survival | ✅ COMPLETE | Clinical map of C-PTSD |
+| Capitol Contracts LLC | ✅ OPERATIONAL | UEI registered, CAGE assigned |
+| C-PTSD Educational Portals | 🔄 ACTIVE | Multiple platforms live |
 
 ---
 
 ## Key Contact & Business Info
 
+**Organization:** Capitol Contracts LLC  
 **Email:** capitolcontracts@outlook.com  
-**Business Name:** Capitol Contracts LLC  
 **UEI:** HH77KN5AV5X7  
 **CAGE Code:** 9ZFJ6  
 **NAICS Code:** 611710 (Educational services)  
-**Services:** Non-clinical psychoeducational curriculum development and deployment
+**Services:** Non-clinical psychoeducational curriculum development and deployment  
+**Focus Areas:** Recovery, veteran support, reentry, peer-support, institutional education
 
 ---
 
@@ -224,9 +225,10 @@ DEPLOYED PILOTS & PROGRAMS
 
 This index exists because:
 - Memory and focus can be difficult with C-PTSD
-- You have 40+ repos across multiple projects
-- It's easy to lose track of what's where
+- You have 18 focused trauma/education/business repos
+- It's easy to lose track of what's where, especially during high-stress periods
 - Having ONE master reference prevents restart loops
+- All resources are trauma-informed and designed for nervous system support
 
 **Bookmark this file.** Come back to it whenever you:
 - Forget what you have
@@ -234,17 +236,8 @@ This index exists because:
 - Want to show someone what you've built
 - Need to brief yourself on the full scope
 - Are starting a new working session
+- Feel overwhelmed and need a grounding reference
 
 ---
 
-## Next Steps (If Needed)
-
-1. **Consolidate duplicates?** (e.g., multiple WRH variants)
-2. **Archive old projects?** (e.g., texas-holdem, termux-app forked stuff)
-3. **Create a single "canonical" version** of each major project?
-4. **Add specific content lists** to each repo's README?
-5. **Build a public-facing portfolio** that links to all this?
-
----
-
-*This index is part of your support system. Keep it updated. Reference it often.*
+*This index is part of your support system. Keep it updated. Reference it often. Everything here is connected to your lived experience, your message, and your mission.*
