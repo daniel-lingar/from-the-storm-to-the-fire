@@ -76,7 +76,7 @@ Hide.
 Endure. 
 I knew how to read a room for danger. 
 I did not know how to read a room for safety. 
-With Trinity, the fear of abandonment was not just emotional. 
+With my ex-wife, the fear of abandonment was not just emotional. 
 It felt like survival. 
 When the kids were used as leverage, it hit the deepest wire in me. 
 Connection could disappear. 
@@ -591,10 +591,10 @@ Those questions sound righteous from the outside.
 Inside, they land like knives. 
 Because I did love my kids. 
 That’s what made the shame so heavy. 
-Maverick. 
-Shayla. 
-Teaguen. 
-Adalee.
+one of my children. 
+one of my children. 
+one of my children. 
+one of my children.
 
 
 ---

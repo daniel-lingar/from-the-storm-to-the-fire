@@ -48,7 +48,7 @@ Interior Text: Daniel “Bret” Lingar
 First Edition​
 Printed in the United States of America 
 DEDICATION 
-For Maverick, Shayla, Teaguen, and Adalee. 
+For my children. 
 You were never the reason I broke. 
 You were the reason something in me kept reaching for light, even when I did not know how to 
 hold it. 
@@ -145,8 +145,7 @@ with the ghosts of twenty-three dead people I loved. And I’m still standing.
 This book is the map. It’s the wreckage. It’s the truth about what happens when a nervous 
 system gets carved by violence before it even knows what safety feels like. It’s about the meth 
 pipe that promised peace and delivered hell. It’s about a twenty-year marriage that felt like a 
-slaughterhouse. It’s about the kids I love more than breath—Maverick, Shayla, Teaguen, 
-Adalee—who deserved a father who wasn’t drowning. 
+slaughterhouse. It’s about the kids I love more than breath—my children, , one of my children—who deserved a father who wasn’t drowning. 
 I wrote this because silence kills. I wrote this because I needed to know why I kept burning 
 down every bridge I crossed. I wrote this so you know you ain’t crazy if your brain feels like a fire 
 alarm that won’t shut off.
@@ -776,7 +775,7 @@ Teenage arrogance kicked in.
 “I’ll have her attention by Wednesday,” I shot back. 
 Twenty years, four kids, and an obliterated marriage later, it turns out I won that bet. 
 I wish I’d lost it. 
-At first, I tried to dismiss Trinity. 
+At first, I tried to dismiss my ex-wife. 
 She was a challenge. 
 Something to prove. 
 But she had a relentless persistence that cut through my bullshit. 
@@ -802,13 +801,13 @@ My kid deserved better than what I’d grown up with. So I went into overdrive.
 Two jobs. 
 Grinding until I had us a paid-off trailer and a car with no payments. 
 Trying to build something stable on top of a fault line. 
-On August 10, 2002, Maverick was born. 
+On August 10, 2002, one of my children was born. 
 My first child. 
 My son. 
 We were still in Clarksville, trying to become a family before we even knew how to become 
 adults. 
-Not even a year later, on June 7, 2003, Shayla came into the world. 
-Only after Shayla was born did we move to Little Rock, where I juggled college and full-time 
+Not even a year later, on June 7, 2003, one of my children came into the world. 
+Only after one of my children was born did we move to Little Rock, where I juggled college and full-time 
 work, trying to build something solid with two kids already here and a nervous system I didn’t 
 understand. 
 The next twenty years ran on a permanent loop. 
@@ -823,7 +822,7 @@ Crash back together.
 Love twisted with wreckage. 
 Over and over. 
 Even when we were apart, it never stopped burning. 
-Trinity learned where my soft spots were. 
+my ex-wife learned where my soft spots were. 
 The kids became weapons. 
 Step out of line, and she’d threaten to kick me out. 
 The thought of losing them was pure terror. 
@@ -919,8 +918,8 @@ Childhood chaos.
 Loss after loss. 
 Twenty years of static. 
 I was living with undiagnosed C-PTSD and no language for why everything felt like a threat. 
-In 2020, Trinity was working as a nurse, so I went to her doctor, a woman she trusted. 
-Trinity told her I was bipolar. 
+In 2020, my ex-wife was working as a nurse, so I went to her doctor, a woman she trusted. 
+my ex-wife told her I was bipolar. 
 I didn’t correct it. 
 At the time, I was hiding a meth addiction. 
 I assumed the chaos in my head was chemical. 
@@ -1012,7 +1011,7 @@ The way I ended up believing I was the monster in every room.
 I had spent years calling myself every ugly name I could find when the truth was simpler and 
 sharper: 
 I’d been hurt, invalidated, and gaslit until I turned the knife on myself. 
-Eventually, even Trinity’s family turned on the chaos. 
+Eventually, even my ex-wife's family turned on the chaos. 
 After one separation, they gave her an ultimatum: 
 “Take him back, or we’re done helping you.” 
 She took me back. 
@@ -1049,7 +1048,7 @@ Those moments in closets weren’t some metaphor a therapist cooked up.
 They were literal. 
 Proof that my existence felt like something that needed to be hidden. 
 In 2015, it all collapsed. 
-Trinity and my mother tag-teamed me into court-ordered rehab for twenty-one days. 
+my ex-wife and my mother tag-teamed me into court-ordered rehab for twenty-one days. 
 The stated reason was concern. 
 The real reason was control. 
 I was trying to leave town with another woman they didn’t approve of. 
@@ -1161,7 +1160,7 @@ Then one day, the floor gives out.
 That was me. 
 Standing from the road. 
 Gone underneath. 
-Trinity took the kids—Maverick, Shayla, Teaguen, Adalee—and left the four-bedroom house 
+my ex-wife took the kids—my children—and left the four-bedroom house 
 hollow. 
 A house built for noise suddenly had none. 
 No footsteps. 

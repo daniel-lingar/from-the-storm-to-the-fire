@@ -33,7 +33,7 @@ At first, my default setting was to point outward.
 The world was fucked up. 
 Bad luck stacked against me. 
 Shitty people crossed my path. 
-Trinity did this.
+my ex-wife did this.
 
 
 ---

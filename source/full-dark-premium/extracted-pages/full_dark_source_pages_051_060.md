@@ -61,7 +61,7 @@ Unnaturally vivid.
 Impossibly calm. 
 Like my mind had picked one safe color and clung to it while everything else blurred. 
 A couple days later, back in Arkansas, grief finally crushed me. 
-Lying beside Trinity, the sobs came hard and uncontrollable. 
+Lying beside my ex-wife, the sobs came hard and uncontrollable. 
 Not pretty crying.
 
 ---
@@ -78,7 +78,7 @@ That final phone call was now permanent.
 The non-decision was permanent. 
 The guilt was permanent. 
 Or at least it felt that way. 
-Then Trinity said: 
+Then my ex-wife said: 
 “Shut up. I have work tomorrow.” 
 Something inside me broke that night. 
 Not because she caused Garrett’s death. 
@@ -146,7 +146,7 @@ Sometimes injected.
 Sometimes traded for alcohol. 
 One master replacing another. 
 The illusion of choice hiding the same captivity. 
-When Trinity took the kids, the house emptied out in a way that felt physical. 
+When my ex-wife took the kids, the house emptied out in a way that felt physical. 
 Four bedrooms reduced to echoes. 
 I couldn’t afford it alone. 
 Didn’t need the space anyway.

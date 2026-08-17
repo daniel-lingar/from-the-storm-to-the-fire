@@ -30,7 +30,7 @@ Standing from the road.
 
 Gone underneath.
 
-My wife took the kids—Maverick, Shayla, Teaguen, Adalee—and left the four-bedroom house hollow.
+My wife took the kids—my children—and left the four-bedroom house hollow.
 
 A house built for noise suddenly had none.
 

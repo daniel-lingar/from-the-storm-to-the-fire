@@ -20,7 +20,7 @@ For mental health crisis support in the United States, call or text 988 to reach
 
 Author: Daniel “Bret” Lingar | First Edition | Printed in the United States of America
 
-For Maverick, Shayla, Teaguen, and Adalee.
+For my children.
 You were never the reason I broke.
 You were the reason something in me kept reaching for light,
 even when I did not know how to hold it.
@@ -156,8 +156,8 @@ with the ghosts of twenty-three dead people I loved. And I'm still standing.
 This book is the map. It's the wreckage. It's the truth about what happens when a nervous
 system gets carved by violence before it even knows what safety feels like. It's about the meth
 pipe that promised peace and delivered hell. It's about a twenty-year marriage that felt like a
-slaughterhouse. It's about the kids I love more than breath—Maverick, Shayla, Teaguen,
-Adalee—who deserved a father who wasn't drowning.
+slaughterhouse. It's about the kids I love more than breath—my children, ,
+one of my children—who deserved a father who wasn't drowning.
 I wrote this because silence kills. I wrote this because I needed to know why I kept burning
 down every bridge I crossed. I wrote this so you know you ain't crazy if your brain feels like a fire
 alarm that won't shut off.

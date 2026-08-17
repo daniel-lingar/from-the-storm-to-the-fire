@@ -32,7 +32,7 @@ Printed in the United States of America
 
 # Dedication
 
-For Maverick, Shayla, Teaguen, and Adalee.
+For my children.
 
 You were never the reason I broke.
 
@@ -1005,7 +1005,7 @@ Grinding until I had us a paid-off trailer and a car with no payments.
 
 Trying to build something stable on top of a fault line.
 
-On August 10, 2002, Maverick was born.
+On August 10, 2002, one of my children was born.
 
 My first child.
 
@@ -1015,9 +1015,9 @@ We were still in Clarksville, trying to become a family before we even knew how 
 
 adults.
 
-Not even a year later, on June 7, 2003, Shayla came into the world.
+Not even a year later, on June 7, 2003, one of my children came into the world.
 
-Only after Shayla was born did we move to Little Rock, where I juggled college and full-time
+Only after one of my children was born did we move to Little Rock, where I juggled college and full-time
 
 work, trying to build something solid with two kids already here and a nervous system I didn’t
 
@@ -1035,7 +1035,7 @@ Over and over.
 
 Even when we were apart, it never stopped burning.
 
-Trinity learned where my soft spots were.
+my ex-wife learned where my soft spots were.
 
 The kids became weapons.
 
@@ -1189,9 +1189,9 @@ Twenty years of static.
 
 I was living with undiagnosed C-PTSD and no language for why everything felt like a threat.
 
-In 2020, Trinity was working as a nurse, so I went to her doctor, a woman she trusted.
+In 2020, my ex-wife was working as a nurse, so I went to her doctor, a woman she trusted.
 
-Trinity told her I was bipolar.
+my ex-wife told her I was bipolar.
 
 I didn’t correct it.
 
@@ -1337,7 +1337,7 @@ sharper:
 
 I’d been hurt, invalidated, and gaslit until I turned the knife on myself.
 
-Eventually, even Trinity’s family turned on the chaos.
+Eventually, even my ex-wife's family turned on the chaos.
 
 After one separation, they gave her an ultimatum:
 
@@ -1399,7 +1399,7 @@ Proof that my existence felt like something that needed to be hidden.
 
 In 2015, it all collapsed.
 
-Trinity and my mother tag-teamed me into court-ordered rehab for twenty-one days.
+my ex-wife and my mother tag-teamed me into court-ordered rehab for twenty-one days.
 
 The stated reason was concern.
 
@@ -1575,7 +1575,7 @@ Standing from the road.
 
 Gone underneath.
 
-Trinity took the kids—Maverick, Shayla, Teaguen, Adalee—and left the four-bedroom house
+my ex-wife took the kids—my children—and left the four-bedroom house
 
 hollow.
 
@@ -1849,7 +1849,7 @@ I had tried rehab before.
 
 In 2019, I walked out after two weeks.
 
-My first call was from Trinity.
+My first call was from my ex-wife.
 
 Bills.
 
@@ -2153,7 +2153,7 @@ I was leaning against the U-Haul in Beth’s driveway when Greg came out, face t
 
 He handed me his phone.
 
-It was Trinity.
+It was my ex-wife.
 
 “Garrett’s gone,” she sobbed. “He’s dead. There was a wreck.”
 
@@ -2277,7 +2277,7 @@ Like my mind had picked one safe color and clung to it while everything else blu
 
 A couple days later, back in Arkansas, grief finally crushed me.
 
-Lying beside Trinity, the sobs came hard and uncontrollable.
+Lying beside my ex-wife, the sobs came hard and uncontrollable.
 
 Not pretty crying.
 
@@ -2299,7 +2299,7 @@ The guilt was permanent.
 
 Or at least it felt that way.
 
-Then Trinity said:
+Then my ex-wife said:
 
 “Shut up. I have work tomorrow.”
 
@@ -3579,7 +3579,7 @@ Bad luck stacked against me.
 
 Shitty people crossed my path.
 
-Trinity did this.
+my ex-wife did this.
 
 Kristina did that.
 
@@ -4589,7 +4589,7 @@ I knew how to read a room for danger.
 
 I did not know how to read a room for safety.
 
-With Trinity, the fear of abandonment was not just emotional.
+With my ex-wife, the fear of abandonment was not just emotional.
 
 It felt like survival.
 
@@ -5399,13 +5399,13 @@ Because I did love my kids.
 
 That’s what made the shame so heavy.
 
-Maverick.
+one of my children.
 
-Shayla.
+one of my children.
 
-Teaguen.
+one of my children.
 
-Adalee.
+one of my children.
 
 My heart still beats their names.
 
@@ -9253,13 +9253,13 @@ too many times.
 
 Especially with my kids.
 
-Maverick.
+one of my children.
 
-Shayla.
+one of my children.
 
-Teaguen.
+one of my children.
 
-Adalee.
+one of my children.
 
 They do not need speeches from me as much as they need evidence.
 
@@ -9301,7 +9301,7 @@ That sentence matters.
 
 Because love for your children can keep you alive, but it cannot do the healing for you.
 
-Maverick, Shayla, Teaguen, and Adalee are anchors.
+my children are anchors.
 
 And anchors do not pull you out of the water.
 
@@ -9583,9 +9583,9 @@ yourself turns into a reckoning. No audience. No script. Just the truth, strippe
 
 It started with trying to connect. I poured months into a video. Creativity, energy, everything I
 
-had left. Showed it to the people I cared about most. Silence. Teaguen said he had no time.
+had left. Showed it to the people I cared about most. Silence. one of my children said he had no time.
 
-Shayla brushed it off like it didn’t matter.
+one of my children brushed it off like it didn’t matter.
 
 Then the songs. Written for her. Better than the noise on the radio. Meant to say what I couldn’t
 
@@ -9767,13 +9767,13 @@ I let fear make decisions that love should have made.
 
 I failed my kids in ways I will carry for the rest of my life.
 
-Maverick.
+one of my children.
 
-Shayla.
+one of my children.
 
-Teaguen.
+one of my children.
 
-Adalee.
+one of my children.
 
 They deserved a father who was present.
 
@@ -12493,7 +12493,7 @@ Note: These aren’t apologies. They’re acknowledgments. Written to stop the l
 
 mechanics, and release the weight so the work can actually move forward.
 
-To My Children (Maverick, Shayla, Teaguen, Adalee)
+To My Children (my children)
 
 I’ve spent too long letting the chaos inside me spill onto you. I’m sorry. This isn’t an excuse. It’s
 
@@ -12529,7 +12529,7 @@ you deserved. You are never to blame for my struggles. I love you more than word
 
 Always.
 
-To Trinity
+To my ex-wife
 
 I’m writing this with clarity carved from years of therapy and nights choking on the ash of twenty years. This isn’t about crucifying you or groveling. It’s about naming the damage, owning my
 
@@ -12565,7 +12565,7 @@ message: you don’t get to be here.
 
 We fed each other’s wounds. I own my part: the rage, the addiction, the failure to regulate. I’m
 
-sick with regret for the pain I caused Maverick, Shayla, Teaguen, Adalee. Therapy showed me
+sick with regret for the pain I caused my children. Therapy showed me
 
 it’s C-PTSD, not Bipolar. The wiring drove the spirals. Substances were a flawed escape, not a
 
@@ -13433,7 +13433,7 @@ behind performance, how overworking can become another rescue boat, and how a pe
 
 look functional while falling apart inside.
 
-He is also the father of Maverick, Shayla, Teaguen, and Adalee, whose names remain at the
+He is also the father of my children, whose names remain at the
 
 center of his healing work. This book is part memoir, part map, and part reckoning: a testimony
 
@@ -13643,7 +13643,7 @@ I just thought it was how I was.
 
 FRONT MATTER
 
-DEDICATION For Maverick, Shayla, Teaguen, and Adalee.
+DEDICATION For my children.
 
 You were never the reason I broke.
 
@@ -13777,7 +13777,7 @@ that didn’t start as escape, but as relief. It’s about relationships that re
 
 have language for.
 
-It’s also about my kids—Maverick, Shayla, Teaguen, Adalee—who were never the cause of the
+It’s also about my kids—my children—who were never the cause of the
 
 damage, but lived inside its ripple.
 
@@ -15067,9 +15067,9 @@ Not visibly.
 
 Not all at once.
 
-Maverick was still little.
+one of my children was still little.
 
-Shayla came right behind him.
+one of my children came right behind him.
 
 Two babies close together meant there was no clean pause between one need and the next.
 
@@ -15949,7 +15949,7 @@ I was leaning against the U-Haul in Beth’s driveway when Greg came out, face t
 
 He handed me his phone.
 
-It was Trinity.
+It was my ex-wife.
 
 “Garrett’s gone,” she sobbed. “He’s dead. There was a wreck.”
 
@@ -16063,7 +16063,7 @@ Like my mind had picked one safe color and clung to it while everything else blu
 
 A couple days later, back in Arkansas, grief finally crushed me.
 
-Lying beside Trinity, the sobs came hard and uncontrollable.
+Lying beside my ex-wife, the sobs came hard and uncontrollable.
 
 Not pretty crying.
 
@@ -16083,7 +16083,7 @@ The non-decision was permanent.
 
 The guilt felt permanent.
 
-Then Trinity said: “Shut up. I have work tomorrow.”
+Then my ex-wife said: “Shut up. I have work tomorrow.”
 
 Something inside me broke that night.
 
@@ -17097,7 +17097,7 @@ from attachment.
 
 After Chastidy, the pattern did not stop. It changed names.
 
-There was Trinity, off and on, between the other relationships. That kind of off-and-on
+There was my ex-wife, off and on, between the other relationships. That kind of off-and-on
 
 connection can do something dangerous to a person who already has abandonment wounds. It
 
@@ -18885,7 +18885,7 @@ That was painful because I loved my kids the whole time.
 
 That part was never fake.
 
-Maverick, Shayla, Teaguen, and Adalee were not side characters in my life. They were the
+my children were not side characters in my life. They were the
 
 reason I kept trying when I did not understand what I was trying against. They were the reason I
 
@@ -19161,7 +19161,7 @@ stigma, fear, and adults who thought they were protecting children while teachin
 
 without one of their parents.
 
-Maverick has not spoken to me in five years. Some of that is my fault, and I have to own that.
+one of my children has not spoken to me in five years. Some of that is my fault, and I have to own that.
 
 My addiction, instability, absence, symptoms, and collapse all had consequences. I cannot tell
 
@@ -19257,7 +19257,7 @@ the adult control around them. All they knew was that Dad was leaving, Dad was f
 
 was not there. After enough time, the reason starts mattering less than the absence.
 
-Shayla saw through some of it when she got older. She saw the lies, the bullshit, the way stories
+one of my children saw through some of it when she got older. She saw the lies, the bullshit, the way stories
 
 had been shaped around her. But by then, another damage had already happened.
 
@@ -19321,7 +19321,7 @@ But guilt for my part does not erase what was done to me, and what was done to m
 
 erase what my kids lived through. All of it has to be true at the same time.
 
-The story with Maverick still hurts in a different way because it has a specific shape. It was not
+The story with one of my children still hurts in a different way because it has a specific shape. It was not
 
 just distance. It was not just years passing. It was a story that formed during one of the worst
 
@@ -19329,9 +19329,9 @@ weeks of my life, and once that story was handed to him, it became harder to rea
 
 almost anything else.
 
-Before COVID hit, I was managing a restaurant. My kids worked there too. Maverick washed
+Before COVID hit, I was managing a restaurant. My kids worked there too. my children washed
 
-dishes when he was fifteen or sixteen. Shayla waited tables. I was managing, cooking, waiting
+dishes when he was fifteen or sixteen. one of my children waited tables. I was managing, cooking, waiting
 
 tables, and trying to hold the whole place together from every direction. It was stressful, but it was also one of those rare places where life still had a shape I could understand. Work had
 
@@ -19341,7 +19341,7 @@ food. Handle the schedule. Cover the floor. Fix the problem. Keep moving.
 
 Then COVID hit, and everything changed fast.
 
-I remember watching the news with Shayla. Maverick was off that day. The governor came on
+I remember watching the news with one of my children. one of my children was off that day. The governor came on
 
 and shut everything down. Just like that, the job changed from difficult to impossible. I had to lay
 
@@ -19363,7 +19363,7 @@ got tighter, and nobody had the language for what was happening yet. We were all
 
 something nobody knew how to handle.
 
-Maverick started getting unemployment. It was around $140 a week, plus the extra $600 from COVID, so he was bringing in about $740 a week. I was bringing home maybe $500 every two
+one of my children started getting unemployment. It was around $140 a week, plus the extra $600 from COVID, so he was bringing in about $740 a week. I was bringing home maybe $500 every two
 
 weeks. I was the father, the manager, the one who was supposed to provide, and my teenage
 
@@ -19393,7 +19393,7 @@ when she got paid. That happened again and again. Then we went to Branson for th
 
 and it was the same thing. Pay for this, and she would pay him back. In my mind, that money was going toward food, bills, and the family getting through that period. It was not drug money. I
 
-did not spend one dollar of Maverick’s unemployment on drugs. Not one. But later, that was not
+did not spend one dollar of one of my children's unemployment on drugs. Not one. But later, that was not
 
 the story he was told.
 
@@ -19405,7 +19405,7 @@ had no power to fix it. I had no way to carry all of them, but my body still tri
 
 anyway. By the time I got home, I was raw from the inside out.
 
-The trash was piled high, even on the kitchen floor. Maverick was on the PlayStation. I told him
+The trash was piled high, even on the kitchen floor. one of my children was on the PlayStation. I told him
 
 to take out the trash. He said no. He was busy.
 
@@ -19453,7 +19453,7 @@ The relapse was real. The collapse was real. My responsibility in that is real.
 
 But the lie that came after it was real too.
 
-Trinity told Maverick I spent all his unemployment money on drugs. He believed her.
+my ex-wife told one of my children I spent all his unemployment money on drugs. He believed her.
 
 That is the part that still burns because it took one of the most painful weeks of my life and
 
@@ -19499,7 +19499,7 @@ Sometimes it only needs one story repeated at the right moment, when a child is 
 
 believe it.
 
-Maverick was hurt. I know that. He was old enough to see the collapse, but not old enough to
+one of my children was hurt. I know that. He was old enough to see the collapse, but not old enough to
 
 understand the machinery underneath it. He saw the relapse. He saw the fighting. He saw me
 
@@ -19531,7 +19531,7 @@ But I want the truth written somewhere. Not to force him, not to corner him, and
 
 forgiveness. Just so the lie is not the only record left.
 
-Maverick, if you ever read this, I need you to know this clearly: I did relapse. I did fall apart. I did
+one of my children, if you ever read this, I need you to know this clearly: I did relapse. I did fall apart. I did
 
 fail in ways I will carry for the rest of my life. But I did not spend your unemployment money on
 
@@ -19609,7 +19609,7 @@ I showed it to the people I cared about most.
 
 Silence.
 
-Teaguen said he did not have time. Shayla brushed it off like it did not matter.
+one of my children said he did not have time. one of my children brushed it off like it did not matter.
 
 I tried to tell myself not to take it personally. People are busy. Kids have their own lives. Nobody
 

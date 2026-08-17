@@ -93,7 +93,7 @@ One casket becomes every name.
 And your body stops knowing which loss it is grieving. 
 I had tried rehab before. 
 In 2019, I walked out after two weeks. 
-My first call was from Trinity. 
+My first call was from my ex-wife. 
 Bills. 
 Kids. 
 Stress.
@@ -295,7 +295,7 @@ That’s how death moves.
 The world keeps acting like itself right before it stops being the same world. 
 I was leaning against the U-Haul in Beth’s driveway when Greg came out, face tight. 
 He handed me his phone. 
-It was Trinity. 
+It was my ex-wife. 
 “Garrett’s gone,” she sobbed. “He’s dead. There was a wreck.” 
 The world stopped. 
 Not slowed. 
