@@ -25,7 +25,7 @@ If you're currently unsafe, fragile, or in active crisis: **do not "push through
 - **Don't binge.** One chapter at a time is the move.
 - **Read from safety.** Have a grounding move ready (breathing, cold water, "5 things you can see," etc.).
 - **Read for language.** Highlight lines that name what you've lived.
-- **Skip ahead on purpose.** If Acts I–III hit too hard, jump to **Act IV ("Agency")** and start at **["Safety First."](/from-the-storm-to-the-fire/chapters/chapter-17-safety-first.html)**
+- **Skip ahead on purpose.** If Acts I–III hit too hard, jump to **Act IV ("Agency")** and start at **["Safety First."](/from-the-storm-to-the-fire/chapters/chapter-18-safety-first.html)**
 
 ### If you need support right now (U.S.)
 

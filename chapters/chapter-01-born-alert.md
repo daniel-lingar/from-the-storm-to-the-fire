@@ -6,7 +6,7 @@ act: "Act I — Wiring"
 chapter_image: /from-the-storm-to-the-fire/assets/images/ch01-child-fear.jpg
 ---
 
-**Progress:** Chapter 1 of 20  
+**Progress:** Chapter 1 of 21  
 **Act I — Wiring**
 
 

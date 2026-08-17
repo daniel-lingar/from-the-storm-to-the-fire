@@ -6,7 +6,7 @@ act: "Act II — Fire"
 chapter_image: /from-the-storm-to-the-fire/assets/images/ch08-child-sadness.jpg
 ---
 
-**Progress:** Chapter 8 of 20  
+**Progress:** Chapter 8 of 21  
 **Act II — Fire**
 
 

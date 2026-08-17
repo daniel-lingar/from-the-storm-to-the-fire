@@ -22,7 +22,7 @@ You have **18 core repositories** across five focused clusters:
 ### Primary Repository
 **`from-the-storm-to-the-fire`** 
 - https://github.com/daniel-lingar/from-the-storm-to-the-fire
-- **Description:** The complete memoir manuscript, 20 chapters, 4 acts
+- **Description:** The complete memoir manuscript, 21 chapters, 4 acts
 - **Status:** ✅ COMPLETE & PUBLISHED
 - **Key Files:**
   - `updated_book.md` — Full manuscript text (the actual book content)
@@ -32,7 +32,7 @@ You have **18 core repositories** across five focused clusters:
   - `MASTER-INDEX.md` — This index
   - Multiple PDF/HTML/EPUB exports (various editions)
 
-### The Story Structure (20 chapters across 4 acts)
+### The Story Structure (21 chapters across 4 acts)
 - **Act I (Ch 1-4):** Wiring — NICU, domestic violence, nervous system formation
 - **Act II (Ch 5-9):** Cost of High Alert — relationships, patterns, escalation
 - **Act III (Ch 10-16):** Present Cost — C-PTSD effects, flashbacks, roles, grief

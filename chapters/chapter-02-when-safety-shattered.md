@@ -6,7 +6,7 @@ act: "Act I — Wiring"
 chapter_image: /from-the-storm-to-the-fire/assets/images/ch02-storm-scars.jpg
 ---
 
-**Progress:** Chapter 2 of 20  
+**Progress:** Chapter 2 of 21  
 **Act I — Wiring**
 
 

@@ -6,7 +6,7 @@ act: "Act I — Wiring"
 chapter_image: /from-the-storm-to-the-fire/assets/images/ch04-restless.jpg
 ---
 
-**Progress:** Chapter 4 of 20  
+**Progress:** Chapter 4 of 21  
 **Act I — Wiring**
 
 

@@ -1,15 +1,15 @@
 ---
 layout: default
-title: "Chapter 20 — Still Burning Still Here"
-chapter: 20
+title: "Chapter 21 — Still Burning Still Here"
+chapter: 21
 act: "Act IV — Agency"
 chapter_image: /from-the-storm-to-the-fire/assets/images/ch20-rebuilding.jpg
 ---
 
-**Progress:** Chapter 20 of 20  
+**Progress:** Chapter 21 of 21  
 **Act IV — Agency**
 
-# Chapter 20 — Still Burning, Still Here
+# Chapter 21 — Still Burning, Still Here
 
 <p class="chapter-orientation">Integration, meaning-making, and what comes after the fire.</p>
 

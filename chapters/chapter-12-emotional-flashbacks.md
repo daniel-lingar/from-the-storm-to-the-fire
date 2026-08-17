@@ -6,7 +6,7 @@ act: "Act III — Healing"
 chapter_image: /from-the-storm-to-the-fire/assets/images/ch12-flashback.jpg
 ---
 
-**Progress:** Chapter 12 of 20  
+**Progress:** Chapter 12 of 21  
 **Act III — Healing**
 
 

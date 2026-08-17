@@ -1,15 +1,15 @@
 ---
 layout: default
-title: "Chapter 19 — Boundaries Feel Like Violence"
-chapter: 19
+title: "Chapter 20 — Boundaries Feel Like Violence"
+chapter: 20
 act: "Act IV — Agency"
 chapter_image: /from-the-storm-to-the-fire/assets/images/ch19-crossroads.jpg
 ---
 
-**Progress:** Chapter 19 of 20  
+**Progress:** Chapter 20 of 21  
 **Act IV — Agency**
 
-# Chapter 19 — Boundaries Feel Like Violence
+# Chapter 20 — Boundaries Feel Like Violence
 
 <p class="chapter-orientation">Why boundaries feel like violence when your body learned to survive through compliance.</p>
 

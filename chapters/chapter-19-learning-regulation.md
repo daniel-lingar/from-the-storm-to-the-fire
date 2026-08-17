@@ -1,15 +1,15 @@
 ---
 layout: default
-title: "Chapter 18 — The Slow Work of Unclenching"
-chapter: 18
+title: "Chapter 19 — The Slow Work of Unclenching"
+chapter: 19
 act: "Act IV — Agency"
 chapter_image: /from-the-storm-to-the-fire/assets/images/ch18-meditation.jpg
 ---
 
-**Progress:** Chapter 18 of 20  
+**Progress:** Chapter 19 of 21  
 **Act IV — Agency**
 
-# Chapter 18 — Learning Regulation
+# Chapter 19 — Learning Regulation
 
 <p class="chapter-orientation">Learning nervous system regulation after a lifetime of dysregulation.</p>
 

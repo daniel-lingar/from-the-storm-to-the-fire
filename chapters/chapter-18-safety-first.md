@@ -1,12 +1,12 @@
 ---
 layout: default
-title: "Chapter 17 — Safety First"
-chapter: 17
+title: "Chapter 18 — Safety First"
+chapter: 18
 act: "Act IV — Agency"
 chapter_image: /from-the-storm-to-the-fire/assets/images/ch17-door.jpg
 ---
 
-**Progress:** Chapter 17 of 20  
+**Progress:** Chapter 18 of 21  
 **Act IV — Agency**
 
 
@@ -14,7 +14,7 @@ chapter_image: /from-the-storm-to-the-fire/assets/images/ch17-door.jpg
   <img src="/from-the-storm-to-the-fire/assets/images/ch17-door.jpg" alt="Chapter 17" style="width: 100%; height: auto; display: block;">
 </div>
 
-# Chapter 17 — Safety First
+# Chapter 18 — Safety First
 
 <p class="chapter-orientation">The search for safety and what it means to finally stand down.</p>
 

@@ -6,7 +6,7 @@ act: "Act I — Wiring"
 chapter_image: /from-the-storm-to-the-fire/assets/images/ch03-tornado-fire.jpg
 ---
 
-**Progress:** Chapter 3 of 20  
+**Progress:** Chapter 3 of 21  
 **Act I — Wiring**
 
 

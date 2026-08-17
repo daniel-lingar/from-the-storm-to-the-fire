@@ -1,18 +1,18 @@
 ---
 layout: default
 title: Read the Book
-description: Complete table of contents for From the Storm to the Fire - all 20 chapters.
+description: Complete table of contents for From the Storm to the Fire - all 21 chapters.
 ---
 
 <div class="wrapper">
 
 # Table of Contents
 
-**From the Storm to the Fire** — A complete memoir in 20 chapters.
+**From the Storm to the Fire** — A complete memoir in 21 chapters.
 
 **New here? Start with:** [Read First]({{ site.baseurl }}/read-first/)
 
-This manuscript is complete: **20 chapters across four acts.**
+This manuscript is complete: **21 chapters across four acts.**
 
 ---
 
@@ -154,9 +154,16 @@ This manuscript is complete: **20 chapters across four acts.**
   
   <div class="chapter-card">
     <h3>Chapter 16</h3>
+    <h4>The Tailgate</h4>
+    <p>Presence, survival, and the person who stayed when everyone else went silent.</p>
+    <a href="/from-the-storm-to-the-fire/chapters/chapter-16-the-tailgate.html" class="cta-button">Read Chapter →</a>
+  </div>
+  
+  <div class="chapter-card">
+    <h3>Chapter 17</h3>
     <h4>The Loneliness Beneath the Noise</h4>
     <p>The isolation that comes from never being fully seen or known.</p>
-    <a href="/from-the-storm-to-the-fire/chapters/chapter-16-the-loneliness-beneath-the-noise.html" class="cta-button">Read Chapter →</a>
+    <a href="/from-the-storm-to-the-fire/chapters/chapter-17-the-loneliness-beneath-the-noise.html" class="cta-button">Read Chapter →</a>
   </div>
 </div>
 
@@ -172,31 +179,31 @@ This manuscript is complete: **20 chapters across four acts.**
 
 <div class="chapter-grid">
   <div class="chapter-card">
-    <h3>Chapter 17</h3>
+    <h3>Chapter 18</h3>
     <h4>Safety First</h4>
     <p>Learning that safety can be built, not earned.</p>
-    <a href="/from-the-storm-to-the-fire/chapters/chapter-17-safety-first.html" class="cta-button">Read Chapter →</a>
-  </div>
-  
-  <div class="chapter-card">
-    <h3>Chapter 18</h3>
-    <h4>The Slow Work of Unclenching</h4>
-    <p>Tools and techniques for nervous system regulation and self-soothing.</p>
-    <a href="/from-the-storm-to-the-fire/chapters/chapter-18-learning-regulation.html" class="cta-button">Read Chapter →</a>
+    <a href="/from-the-storm-to-the-fire/chapters/chapter-18-safety-first.html" class="cta-button">Read Chapter →</a>
   </div>
   
   <div class="chapter-card">
     <h3>Chapter 19</h3>
-    <h4>Boundaries Feel Like Violence</h4>
-    <p>Why setting boundaries triggers trauma responses and how to work through it.</p>
-    <a href="/from-the-storm-to-the-fire/chapters/chapter-19-boundaries-feel-like-violence.html" class="cta-button">Read Chapter →</a>
+    <h4>The Slow Work of Unclenching</h4>
+    <p>Tools and techniques for nervous system regulation and self-soothing.</p>
+    <a href="/from-the-storm-to-the-fire/chapters/chapter-19-learning-regulation.html" class="cta-button">Read Chapter →</a>
   </div>
   
   <div class="chapter-card">
     <h3>Chapter 20</h3>
+    <h4>Boundaries Feel Like Violence</h4>
+    <p>Why setting boundaries triggers trauma responses and how to work through it.</p>
+    <a href="/from-the-storm-to-the-fire/chapters/chapter-20-boundaries-feel-like-violence.html" class="cta-button">Read Chapter →</a>
+  </div>
+  
+  <div class="chapter-card">
+    <h3>Chapter 21</h3>
     <h4>Still Burning, Still Here</h4>
     <p>Integration, meaning-making, and what comes after the fire.</p>
-    <a href="/from-the-storm-to-the-fire/chapters/chapter-20-still-burning-still-here.html" class="cta-button">Read Chapter →</a>
+    <a href="/from-the-storm-to-the-fire/chapters/chapter-21-still-burning-still-here.html" class="cta-button">Read Chapter →</a>
   </div>
 </div>
 

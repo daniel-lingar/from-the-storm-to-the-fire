@@ -6,7 +6,7 @@ act: "Act II — Fire"
 chapter_image: /from-the-storm-to-the-fire/assets/images/ch09-overwhelmed.jpg
 ---
 
-**Progress:** Chapter 9 of 20  
+**Progress:** Chapter 9 of 21  
 **Act II — Fire**
 
 

@@ -6,7 +6,7 @@ act: "Act II — Fire"
 chapter_image: /from-the-storm-to-the-fire/assets/images/ch06-support.jpg
 ---
 
-**Progress:** Chapter 6 of 20  
+**Progress:** Chapter 6 of 21  
 **Act II — Fire**
 
 

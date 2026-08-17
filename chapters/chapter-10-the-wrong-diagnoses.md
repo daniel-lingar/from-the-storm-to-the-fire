@@ -6,7 +6,7 @@ act: "Act III — Healing"
 chapter_image: /from-the-storm-to-the-fire/assets/images/ch10-fractured-mirror.jpg
 ---
 
-**Progress:** Chapter 10 of 20  
+**Progress:** Chapter 10 of 21  
 **Act III — Healing**
 
 

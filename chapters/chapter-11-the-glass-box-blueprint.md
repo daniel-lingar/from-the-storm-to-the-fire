@@ -6,7 +6,7 @@ act: "Act III — Healing"
 chapter_image: /from-the-storm-to-the-fire/assets/images/ch11-glass-box.jpg
 ---
 
-**Progress:** Chapter 11 of 20  
+**Progress:** Chapter 11 of 21  
 **Act III — Healing**
 
 

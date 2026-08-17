@@ -6,7 +6,7 @@ act: "Act IV — Cost"
 chapter_image: /from-the-storm-to-the-fire/assets/images/ch14-unfinished.jpg
 ---
 
-**Progress:** Chapter 14 of 20  
+**Progress:** Chapter 14 of 21  
 **Act IV — Cost**
 
 

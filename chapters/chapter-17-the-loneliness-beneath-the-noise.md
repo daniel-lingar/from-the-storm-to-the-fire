@@ -1,12 +1,12 @@
 ---
 layout: default
-title: "Chapter 16 — The Loneliness Beneath the Noise"
-chapter: 16
+title: "Chapter 17 — The Loneliness Beneath the Noise"
+chapter: 17
 act: "Act IV — Cost"
 chapter_image: /from-the-storm-to-the-fire/assets/images/ch16-loneliness.jpg
 ---
 
-**Progress:** Chapter 16 of 20  
+**Progress:** Chapter 17 of 21  
 **Act IV — Cost**
 
 
@@ -14,7 +14,7 @@ chapter_image: /from-the-storm-to-the-fire/assets/images/ch16-loneliness.jpg
   <img src="/from-the-storm-to-the-fire/assets/images/ch16-loneliness.jpg" alt="Chapter 16" style="width: 100%; height: auto; display: block;">
 </div>
 
-# Chapter 16 — The Loneliness Beneath the Noise
+# Chapter 17 — The Loneliness Beneath the Noise
 
 <p class="chapter-orientation">The loneliness beneath productivity, achievement, and constant motion.</p>
 

@@ -52,7 +52,7 @@ It begins with symptoms and coping strategies — and works relentlessly back to
 
 ## The Complete Manuscript
 
-**20 chapters across four acts** — from the NICU to Complex PTSD, from meaning to debt, and finally to agency and healing.
+**21 chapters across four acts** — from the NICU to Complex PTSD, from meaning to debt, and finally to agency and healing.
 
 ### Act I: The Adult Defense — Working Back to the Blueprint of Wiring
 How survival patterns formed in the body: tracing current hypervigilance back to the NICU, domestic violence, sleep paralysis, and the nervous system adaptations that became a way of life.
@@ -80,16 +80,16 @@ Living with Complex PTSD now: recognizing wrong diagnoses, the invisible barrier
 13. [Chapter 13 — The Costumes We Couldn't Take Off](/from-the-storm-to-the-fire/chapters/chapter-13-survival-roles.html)
 14. [Chapter 14 — The Life I Didn't Live](/from-the-storm-to-the-fire/chapters/chapter-14-the-life-i-didnt-live.html)
 15. [Chapter 15 — Parenting From the Fire](/from-the-storm-to-the-fire/chapters/chapter-15-parenting-from-the-fire.html)
-16. [Chapter 16 — The Loneliness Beneath the Noise](/from-the-storm-to-the-fire/chapters/chapter-16-the-loneliness-beneath-the-noise.html)
+16. [Chapter 16 — The Tailgate](/from-the-storm-to-the-fire/chapters/chapter-16-the-tailgate.html)
+17. [Chapter 17 — The Loneliness Beneath the Noise](/from-the-storm-to-the-fire/chapters/chapter-17-the-loneliness-beneath-the-noise.html)
 
 ### Act IV: Building Agency — The Slow Work of Reclaiming Self
 The messy, ongoing work of healing: finding safety, retraining the nervous system, confronting why boundaries feel like violence, and continuing the work of recovery.
 
-17. [Chapter 17 — Safety First](/from-the-storm-to-the-fire/chapters/chapter-17-safety-first.html)
-
-18. [Chapter 18 — The Slow Work of Unclenching](/from-the-storm-to-the-fire/chapters/chapter-18-learning-regulation.html)
-19. [Chapter 19 — Boundaries Feel Like Violence](/from-the-storm-to-the-fire/chapters/chapter-19-boundaries-feel-like-violence.html)
-20. [Chapter 20 — Still Burning, Still Here](/from-the-storm-to-the-fire/chapters/chapter-20-still-burning-still-here.html)
+18. [Chapter 18 — Safety First](/from-the-storm-to-the-fire/chapters/chapter-18-safety-first.html)
+19. [Chapter 19 — The Slow Work of Unclenching](/from-the-storm-to-the-fire/chapters/chapter-19-learning-regulation.html)
+20. [Chapter 20 — Boundaries Feel Like Violence](/from-the-storm-to-the-fire/chapters/chapter-20-boundaries-feel-like-violence.html)
+21. [Chapter 21 — Still Burning, Still Here](/from-the-storm-to-the-fire/chapters/chapter-21-still-burning-still-here.html)
 
 ---
 
