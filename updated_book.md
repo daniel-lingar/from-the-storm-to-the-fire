@@ -92,7 +92,7 @@ I thought the freezing wind and the relentless shifts would keep the lid on the 
 
 Chapter 8: Burning in Cold Places
 I. The Persistent Pursuit
-Then came Kristina.
+Then came a later partner.
 
 She was a coworker, and from the jump, she saw through the ghost act. She started flirting, pushing past the invisible boundary lines I drew around myself. She was relentless. “Let’s go to the movies.” “Let’s hang out outside of work.” Every time she reached out, my internal tripwires screamed. I didn't want to let anyone in. I knew what lived inside my head, and I knew it wasn't safe for public consumption.
 
@@ -100,7 +100,7 @@ To scare her off—to permanently vaporize whatever idealized version of me she 
 
 I gave her the monster on a platter, expecting her to run.
 
-Instead, she didn't even blink. She leaned right into it. She told me she "wasn't like everyone else" and insisted she could handle it. But the moment my defenses completely turned to ash happened one night in my room. I was running Nmap scans on a Kali Linux machine—the kind of technical, hyper-focused sandbox I used to escape reality. In every past relationship, my obsession with tech and hardware hacking was dismissed as boring or weird. But Kristina sat there, leaned in close, and asked genuinely smart, perceptive questions.
+Instead, she didn't even blink. She leaned right into it. She told me she "wasn't like everyone else" and insisted she could handle it. But the moment my defenses completely turned to ash happened one night in my room. I was running Nmap scans on a Kali Linux machine—the kind of technical, hyper-focused sandbox I used to escape reality. In every past relationship, my obsession with tech and hardware hacking was dismissed as boring or weird. But a later partner sat there, leaned in close, and asked genuinely smart, perceptive questions.
 
 It was a fatal short-circuit. That intense, hyper-focused attention felt like voltage disguised as warmth. It bypassed twenty years of defense mechanisms and shattered my walls in a single evening. I let the guard down.
 

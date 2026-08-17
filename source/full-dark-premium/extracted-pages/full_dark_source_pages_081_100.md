@@ -41,7 +41,7 @@ my ex-wife did this.
 ## PDF Page 82
 
 82
-Kristina did that. 
+A later partner did that. 
 The cops failed here. 
 The court system failed there. 
 Family didn’t understand. 

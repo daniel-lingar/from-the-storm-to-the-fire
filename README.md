@@ -1737,7 +1737,7 @@ Mom was on the floor.
 
 Falon grabbed her.
 
-Tina called 911.
+An earlier partner called 911.
 
 The living room filled with paramedics.
 
@@ -3581,7 +3581,7 @@ Shitty people crossed my path.
 
 my ex-wife did this.
 
-Kristina did that.
+A later partner did that.
 
 The cops failed here.
 
@@ -12583,7 +12583,7 @@ keeps them from their dad. I’m burning the slaughterhouse to the ground. Walki
 
 forged in healing, not hate.
 
-To Kristina
+To a later partner
 
 Williston was a whirlwind that left me shattered. You came when I was raw—grieving my mom,
 
@@ -17131,9 +17131,9 @@ carried it forward because I still did not understand what it was. I thought eve
 
 a new story, but most of the time my nervous system was reading from the same old script.
 
-Then came Tina.
+Then came an earlier partner.
 
-With Tina, I thought I really loved her. I believed it with everything in me. From around 2020 to
+With an earlier partner, I thought I really loved her. I believed it with everything in me. From around 2020 to
 
 2022, that attachment took hold of me in a way that felt impossible to explain from the outside. It
 
@@ -17141,7 +17141,7 @@ was not clean, calm, or steady. It was the kind of love that made me feel like I
 
 without it. Because I did not understand trauma bonds, I called that love too.
 
-Tina became another place where the old wound found a home. I was already unraveling during
+An earlier partner became another place where the old wound found a home. I was already unraveling during
 
 those years. Addiction was getting worse. My marriage had fallen apart. My mother died. Garrett was still a wound that never stopped bleeding. I was carrying grief, shame, meth, alcohol, work,
 
@@ -17157,7 +17157,7 @@ the water feels worse. You hold on because letting go feels like sinking. You ho
 
 your body does not believe you will survive the drop.
 
-That was the truth I did not have words for yet. I was not just afraid of losing Tina. I was afraid of
+That was the truth I did not have words for yet. I was not just afraid of losing that earlier partner. I was afraid of
 
 what losing her woke up inside me. The abandonment did not feel like normal loss. It felt like
 
@@ -17173,7 +17173,7 @@ abandonment hit a different system in me.
 
 Garrett was grief. Abandonment was survival.
 
-When Tina pulled away, or when I thought I was losing her, my body did not process it like
+When that earlier partner pulled away, or when I thought I was losing her, my body did not process it like
 
 sadness. It processed it like danger. Like the floor had disappeared. Like I was a child again with no protection, no control, and no way to make the pain stop. The feeling was so primitive
 
@@ -17195,11 +17195,11 @@ what I called devotion was panic. Sometimes what I called love was my nervous sy
 
 begging not to be abandoned again.
 
-Then came Kristina.
+Then came a later partner.
 
-Kristina scared me in a different way because I did not want her at first. I did not want a
+A later partner scared me in a different way because I did not want her at first. I did not want a
 
-relationship. I was still crying over Tina every day. I had walls up, and they were thick. I saw red
+relationship. I was still grieving that earlier relationship every day. I had walls up, and they were thick. I saw red
 
 flag after red flag. I told myself no. I told myself not this time. I did not even feel drawn to her in
 
@@ -17233,7 +17233,7 @@ because it was the first lens that made any kind of sense.
 
 But it still wasn’t the whole truth.
 
-After Kristina took my promotion, after I got fired, after I lost my apartment and moved back to
+After a later partner took my promotion, after I got fired, after I lost my apartment and moved back to
 
 Arkansas, the fear got worse in a way I could not explain away with relationship language anymore. It was not just attachment. It was my whole body.
 
@@ -17287,7 +17287,7 @@ had called a fresh start had turned into another place where the same pattern ca
 
 I came back carrying more than bags.
 
-I carried the shame of failing again. I carried Tina. I carried Kristina. I carried Garrett. I carried
+I carried the shame of failing again. I carried that earlier relationship. I carried a later partner. I carried Garrett. I carried
 
 my mother. I carried the kids being gone from my daily life. I carried the old addiction, the work
 
@@ -17585,7 +17585,7 @@ me.
 
 I came back carrying more than bags.
 
-I carried the shame of failing again. I carried Tina. I carried Kristina. I carried Garrett. I carried my mother. I carried the kids being gone from my daily life. I carried the old addiction, the work
+I carried the shame of failing again. I carried that earlier relationship. I carried a later partner. I carried Garrett. I carried my mother. I carried the kids being gone from my daily life. I carried the old addiction, the work
 
 addiction, the relationship withdrawals, the quiet BPD label I had tried to use as a map, and the
 

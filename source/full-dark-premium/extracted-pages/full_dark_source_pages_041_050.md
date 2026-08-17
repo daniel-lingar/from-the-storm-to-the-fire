@@ -23,7 +23,7 @@ It is a breaker tripping.
 It is the system shutting down because danger got too big and too fast. 
 Mom was on the floor. 
 Falon grabbed her. 
-Tina called 911. 
+An earlier partner called 911. 
 The living room filled with paramedics. 
 My body was there. 
 I was not fully in it. 
