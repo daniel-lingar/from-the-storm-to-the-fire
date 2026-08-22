@@ -2,6 +2,8 @@
 ## The Truth Behind the Silence
 ### Daniel “Bret” Lingar
 
+> **Primary Public Manuscript:** This is the primary, polished public version of *From the Storm to the Fire*. It is part of the WRH Project Ecosystem. For the consolidated public portfolio and system map, start at [Technical Prompt Engineer & AI Evaluation Specialist](https://daniel-lingar.github.io/technical-prompt-engineer-portfolio/). Historical working drafts are preserved in [72026FROMTHESTORMTOTHEFIRE](https://github.com/daniel-lingar/72026FROMTHESTORMTOTHEFIRE), and historical production tooling is preserved in [from-storm-to-fire-book-production](https://github.com/daniel-lingar/from-storm-to-fire-book-production).
+
 ---
 
 # Copyright
