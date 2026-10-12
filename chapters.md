@@ -1,219 +1,68 @@
 ---
 layout: default
-title: Read the Book
-description: Complete table of contents for From the Storm to the Fire - all 21 chapters.
+title: Contents
+permalink: /chapters/
+description: Complete table of contents for the live 25-chapter master of From the Storm to the Fire.
 ---
 
-<div class="wrapper">
+# Contents
 
-# Table of Contents
+The live reader is the **Complete 25-Chapter Master**, organized in five parts and followed by the final thought.
 
-**From the Storm to the Fire** — A complete memoir in 21 chapters.
+[Read the complete book online]({{ '/read-first/' | relative_url }})
+[Download the Word master (.docx)]({{ '/downloads/From-the-Storm-to-the-Fire-Complete-25-Chapter-Master.docx' | relative_url }})
+[View the source DOCX on GitHub](https://github.com/daniel-lingar/from-the-storm-to-the-fire/blob/main/downloads/From-the-Storm-to-the-Fire-Complete-25-Chapter-Master.docx)
 
-**New here? Start with:** [Read First]({{ site.baseurl }}/read-first/)
+## Front matter
 
-This manuscript is complete: **21 chapters across four acts.**
+- [Dedication]({{ '/read-first/' | relative_url }}#dedication)
+- [Content Note]({{ '/read-first/' | relative_url }}#content-note)
+- [Introduction]({{ '/read-first/' | relative_url }}#introduction)
+- [Preface — The Wiring]({{ '/read-first/' | relative_url }}#preface-the-wiring)
+- [Prologue — The Predictive Model]({{ '/read-first/' | relative_url }}#prologue-the-predictive-model)
 
----
+## Part I — The Foundations
 
-<div class="toc-section fade-in" style="background: linear-gradient(135deg, rgba(211,84,0,0.05) 0%, rgba(230,126,34,0.05) 100%); padding: 2rem; border-radius: 16px; margin-bottom: 3rem;">
+- [Chapter 1 — The Storm Outside]({{ '/read-first/' | relative_url }}#chapter-01-the-storm-outside)
+- [Chapter 2 — The Words Came Late]({{ '/read-first/' | relative_url }}#chapter-02-the-words-came-late)
+- [Chapter 3 — The Fire Ignites]({{ '/read-first/' | relative_url }}#chapter-03-the-fire-ignites)
+- [Chapter 4 — Pain Takes Root]({{ '/read-first/' | relative_url }}#chapter-04-pain-takes-root)
 
-## Act I: The Adult Defense — Working Back to the Blueprint of Wiring
+## Part II — Entanglement and Escalation
 
-**How survival patterns formed in the body: tracing current hypervigilance back to the NICU, domestic violence, sleep paralysis, and the nervous system adaptations that became a way of life.**
+- [Chapter 5 — Twenty Years of Static]({{ '/read-first/' | relative_url }}#chapter-05-twenty-years-of-static)
+- [Chapter 6 — The Collapse]({{ '/read-first/' | relative_url }}#chapter-06-the-collapse)
+- [Chapter 7 — The Breaking Point: Garrett’s Loss]({{ '/read-first/' | relative_url }}#chapter-07-the-breaking-point-garretts-loss)
 
-<div class="chapter-grid">
-  <div class="chapter-card">
-    <h3>Chapter 1</h3>
-    <h4>Born Alert</h4>
-    <p>The NICU, premature birth, and the nervous system's first lesson in survival through stillness.</p>
-    <a href="/from-the-storm-to-the-fire/chapters/chapter-01-born-alert.html" class="cta-button">Read Chapter →</a>
-  </div>
-  
-  <div class="chapter-card">
-    <h3>Chapter 2</h3>
-    <h4>When Safety Shattered</h4>
-    <p>Domestic violence, early childhood trauma, and the moment the world became unpredictable.</p>
-    <a href="/from-the-storm-to-the-fire/chapters/chapter-02-when-safety-shattered.html" class="cta-button">Read Chapter →</a>
-  </div>
-  
-  <div class="chapter-card">
-    <h3>Chapter 3</h3>
-    <h4>The Body Learns First</h4>
-    <p>How the nervous system adapts to danger before the mind can understand it.</p>
-    <a href="/from-the-storm-to-the-fire/chapters/chapter-03-the-body-learns-first.html" class="cta-button">Read Chapter →</a>
-  </div>
-  
-  <div class="chapter-card">
-    <h3>Chapter 4</h3>
-    <h4>The First Escapes</h4>
-    <p>Early coping mechanisms, dissociation, and the beginning of survival strategies.</p>
-    <a href="/from-the-storm-to-the-fire/chapters/chapter-04-the-first-escapes.html" class="cta-button">Read Chapter →</a>
-  </div>
-</div>
+## Part III — Inferno and Isolation
 
-</div>
+- [Chapter 8 — The Yo-Yo and the Band-Aid]({{ '/read-first/' | relative_url }}#chapter-08-the-yo-yo-and-the-band-aid)
+- [Chapter 9 — Adrift in North Dakota]({{ '/read-first/' | relative_url }}#chapter-09-adrift-in-north-dakota)
+- [Chapter 10 — Burning in Cold Places]({{ '/read-first/' | relative_url }}#chapter-10-burning-in-cold-places)
 
----
+## Part IV — Decoding the Fire
 
-<div class="toc-section fade-in-delay-1" style="background: linear-gradient(135deg, rgba(230,126,34,0.05) 0%, rgba(243,156,18,0.05) 100%); padding: 2rem; border-radius: 16px; margin-bottom: 3rem;">
+- [Chapter 11 — Decoding the Fire: Shifting the Blame]({{ '/read-first/' | relative_url }}#chapter-11-decoding-the-fire-shifting-the-blame)
+- [Chapter 12 — The Wrong Diagnoses]({{ '/read-first/' | relative_url }}#chapter-12-the-wrong-diagnoses)
+- [Chapter 13 — The Glass Box Blueprint: Wired for Distance and Danger]({{ '/read-first/' | relative_url }}#chapter-13-the-glass-box-blueprint-wired-for-distance-and-danger)
+- [Chapter 14 — Echoes and Amplifiers: When the Blueprint Meets the Storm]({{ '/read-first/' | relative_url }}#chapter-14-echoes-and-amplifiers-when-the-blueprint-meets-the-storm)
+- [Chapter 15 — The Anatomy of Trauma: 60 Reflections from the Inside]({{ '/read-first/' | relative_url }}#chapter-15-the-anatomy-of-trauma-60-reflections-from-the-inside)
+- [Chapter 16 — The Rescue Boat: Why We Reach for Anything That Quiets the Alarm]({{ '/read-first/' | relative_url }}#chapter-16-the-rescue-boat-why-we-reach-for-anything-that-quiets-the-alarm)
+- [Chapter 17 — The Second Wound: How Stigma Turns Pain Into Shame]({{ '/read-first/' | relative_url }}#chapter-17-the-second-wound-how-stigma-turns-pain-into-shame)
 
-## Act II: The Cost of High Alert — Tracing Current Patterns Back to the Fire
+## Part V — Reckoning and Rising
 
-**How trauma shaped relationships and self: working backward from burnout and exhaustion to loving on high alert, the kindness trap, the loop, the cost of silence, and escalation.**
+- [Chapter 18 — The Wall Between Us]({{ '/read-first/' | relative_url }}#chapter-18-the-wall-between-us)
+- [Chapter 19 — The Tailgate]({{ '/read-first/' | relative_url }}#chapter-19-the-tailgate)
+- [Chapter 20 — The Body That Never Got the All-Clear]({{ '/read-first/' | relative_url }}#chapter-20-the-body-that-never-got-the-all-clear)
+- [Chapter 21 — Finding the Map in the Madness]({{ '/read-first/' | relative_url }}#chapter-21-finding-the-map-in-the-madness)
+- [Chapter 22 — The Complex Dance of Connection]({{ '/read-first/' | relative_url }}#chapter-22-the-complex-dance-of-connection)
+- [Chapter 23 — Conversations at Midnight]({{ '/read-first/' | relative_url }}#chapter-23-conversations-at-midnight)
+- [Chapter 24 — The Difference Between an Explanation and an Excuse]({{ '/read-first/' | relative_url }}#chapter-24-the-difference-between-an-explanation-and-an-excuse)
+- [Chapter 25 — What I Do Differently Now]({{ '/read-first/' | relative_url }}#chapter-25-what-i-do-differently-now)
 
-<div class="chapter-grid">
-  <div class="chapter-card">
-    <h3>Chapter 5</h3>
-    <h4>Loving on High Alert</h4>
-    <p>How hypervigilance shapes relationships and the search for safety in others.</p>
-    <a href="/from-the-storm-to-the-fire/chapters/chapter-05-loving-on-high-alert.html" class="cta-button">Read Chapter →</a>
-  </div>
-  
-  <div class="chapter-card">
-    <h3>Chapter 6</h3>
-    <h4>The Kindness Trap</h4>
-    <p>When being "good" becomes a survival strategy instead of genuine connection.</p>
-    <a href="/from-the-storm-to-the-fire/chapters/chapter-06-the-kindness-trap.html" class="cta-button">Read Chapter →</a>
-  </div>
-  
-  <div class="chapter-card">
-    <h3>Chapter 7</h3>
-    <h4>The Loop</h4>
-    <p>Repetition compulsion and the cycle of seeking familiar chaos.</p>
-    <a href="/from-the-storm-to-the-fire/chapters/chapter-07-the-loop.html" class="cta-button">Read Chapter →</a>
-  </div>
-  
-  <div class="chapter-card">
-    <h3>Chapter 8</h3>
-    <h4>The Cost of Silence</h4>
-    <p>What happens when survival means never speaking your truth.</p>
-    <a href="/from-the-storm-to-the-fire/chapters/chapter-08-the-cost-of-silence.html" class="cta-button">Read Chapter →</a>
-  </div>
-  
-  <div class="chapter-card">
-    <h3>Chapter 9</h3>
-    <h4>Escalation</h4>
-    <p>When coping mechanisms stop working and the fire spreads.</p>
-    <a href="/from-the-storm-to-the-fire/chapters/chapter-09-escalation.html" class="cta-button">Read Chapter →</a>
-  </div>
-</div>
+## Final Thought
 
-</div>
+- [The Ember That Stayed]({{ '/read-first/' | relative_url }}#final-thought)
 
----
-
-<div class="toc-section fade-in-delay-2" style="background: linear-gradient(135deg, rgba(243,156,18,0.05) 0%, rgba(211,84,0,0.05) 100%); padding: 2rem; border-radius: 16px; margin-bottom: 3rem;">
-
-## Act III: The Present Cost — Understanding the Map and Facing the Debt
-
-**Living with Complex PTSD now: recognizing wrong diagnoses, the invisible barriers, when yesterday burns today, the roles we couldn't escape, and grieving the life lost to the fire.**
-
-<div class="chapter-grid">
-  <div class="chapter-card">
-    <h3>Chapter 10</h3>
-    <h4>The Wrong Diagnoses</h4>
-    <p>Misunderstanding Complex PTSD and the search for the right framework.</p>
-    <a href="/from-the-storm-to-the-fire/chapters/chapter-10-the-wrong-diagnoses.html" class="cta-button">Read Chapter →</a>
-  </div>
-  
-  <div class="chapter-card">
-    <h3>Chapter 11</h3>
-    <h4>The Life Planned Behind Invisible Walls</h4>
-    <p>The invisible barrier between you and the world, and how it forms.</p>
-    <a href="/from-the-storm-to-the-fire/chapters/chapter-11-the-glass-box-blueprint.html" class="cta-button">Read Chapter →</a>
-  </div>
-  
-  <div class="chapter-card">
-    <h3>Chapter 12</h3>
-    <h4>When Yesterday Burns Today</h4>
-    <p>When the past invades the present without warning or context.</p>
-    <a href="/from-the-storm-to-the-fire/chapters/chapter-12-emotional-flashbacks.html" class="cta-button">Read Chapter →</a>
-  </div>
-  
-  <div class="chapter-card">
-    <h3>Chapter 13</h3>
-    <h4>The Costumes We Couldn't Take Off</h4>
-    <p>The masks we wear to stay safe and the cost of never taking them off.</p>
-    <a href="/from-the-storm-to-the-fire/chapters/chapter-13-survival-roles.html" class="cta-button">Read Chapter →</a>
-  </div>
-  
-  <div class="chapter-card">
-    <h3>Chapter 14</h3>
-    <h4>The Life I Didn't Live</h4>
-    <p>Grieving the person you might have been without the trauma.</p>
-    <a href="/from-the-storm-to-the-fire/chapters/chapter-14-the-life-i-didnt-live.html" class="cta-button">Read Chapter →</a>
-  </div>
-  
-  <div class="chapter-card">
-    <h3>Chapter 15</h3>
-    <h4>Parenting From the Fire</h4>
-    <p>Breaking cycles while still healing from your own wounds.</p>
-    <a href="/from-the-storm-to-the-fire/chapters/chapter-15-parenting-from-the-fire.html" class="cta-button">Read Chapter →</a>
-  </div>
-  
-  <div class="chapter-card">
-    <h3>Chapter 16</h3>
-    <h4>The Tailgate</h4>
-    <p>Presence, survival, and the person who stayed when everyone else went silent.</p>
-    <a href="/from-the-storm-to-the-fire/chapters/chapter-16-the-tailgate.html" class="cta-button">Read Chapter →</a>
-  </div>
-  
-  <div class="chapter-card">
-    <h3>Chapter 17</h3>
-    <h4>The Loneliness Beneath the Noise</h4>
-    <p>The isolation that comes from never being fully seen or known.</p>
-    <a href="/from-the-storm-to-the-fire/chapters/chapter-17-the-loneliness-beneath-the-noise.html" class="cta-button">Read Chapter →</a>
-  </div>
-</div>
-
-</div>
-
----
-
-<div class="toc-section fade-in-delay-3" style="background: linear-gradient(135deg, rgba(211,84,0,0.05) 0%, rgba(230,126,34,0.05) 100%); padding: 2rem; border-radius: 16px; margin-bottom: 3rem;">
-
-## Act IV: Building Agency — The Slow Work of Reclaiming Self
-
-**The messy, ongoing work of healing: finding safety, retraining the nervous system, confronting why boundaries feel like violence, and continuing the work of recovery.**
-
-<div class="chapter-grid">
-  <div class="chapter-card">
-    <h3>Chapter 18</h3>
-    <h4>Safety First</h4>
-    <p>Learning that safety can be built, not earned.</p>
-    <a href="/from-the-storm-to-the-fire/chapters/chapter-18-safety-first.html" class="cta-button">Read Chapter →</a>
-  </div>
-  
-  <div class="chapter-card">
-    <h3>Chapter 19</h3>
-    <h4>The Slow Work of Unclenching</h4>
-    <p>Tools and techniques for nervous system regulation and self-soothing.</p>
-    <a href="/from-the-storm-to-the-fire/chapters/chapter-19-learning-regulation.html" class="cta-button">Read Chapter →</a>
-  </div>
-  
-  <div class="chapter-card">
-    <h3>Chapter 20</h3>
-    <h4>Boundaries Feel Like Violence</h4>
-    <p>Why setting boundaries triggers trauma responses and how to work through it.</p>
-    <a href="/from-the-storm-to-the-fire/chapters/chapter-20-boundaries-feel-like-violence.html" class="cta-button">Read Chapter →</a>
-  </div>
-  
-  <div class="chapter-card">
-    <h3>Chapter 21</h3>
-    <h4>Still Burning, Still Here</h4>
-    <p>Integration, meaning-making, and what comes after the fire.</p>
-    <a href="/from-the-storm-to-the-fire/chapters/chapter-21-still-burning-still-here.html" class="cta-button">Read Chapter →</a>
-  </div>
-</div>
-
-</div>
-
----
-
-<div style="text-align: center; margin: 3rem 0;">
-  <a href="/from-the-storm-to-the-fire/" class="cta-button secondary">← Back to Home</a>
-  <a href="/from-the-storm-to-the-fire/chapters/chapter-01-born-alert.html" class="cta-button primary">Start Reading →</a>
-</div>
-
-</div>
+[Back to the book page]({{ '/' | relative_url }})

@@ -1,13 +1,13 @@
 # Site settings
 title: From the Storm to the Fire
 description: >-
-  A trauma memoir told backwards — from survival to origin. A raw, neuroscience-grounded account of Complex PTSD and recovery.
+  A first-person memoir about trauma, addiction, grief, family loss, accountability, and the work of rebuilding. The live reader presents the complete 25-chapter master in five parts.
 baseurl: "/from-the-storm-to-the-fire"
 url: "https://daniel-lingar.github.io"
 
 # Author information
 author:
-  name: Daniel Lingar
+  name: Daniel “Bret” Lingar
 
 # Build settings
 markdown: kramdown

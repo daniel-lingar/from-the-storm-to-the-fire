@@ -22,21 +22,24 @@ You have **18 core repositories** across five focused clusters:
 ### Primary Repository
 **`from-the-storm-to-the-fire`** 
 - https://github.com/daniel-lingar/from-the-storm-to-the-fire
-- **Description:** The complete memoir manuscript, 21 chapters, 4 acts
-- **Status:** ✅ COMPLETE & PUBLISHED
+- **Description:** The current public memoir is the Complete 25-Chapter Master, five parts
+- **Status:** ✅ CURRENT PUBLIC READER — Complete 25-Chapter Master
 - **Key Files:**
-  - `updated_book.md` — Full manuscript text (the actual book content)
-  - `chapters.md` — Table of contents with chapter descriptions
+  - `downloads/From-the-Storm-to-the-Fire-Complete-25-Chapter-Master.docx` — current source manuscript
+  - `read-first/index.html` — complete online reader
+  - `chapters.md` — current 25-chapter contents page
   - `START-HERE.md` — Project orientation
   - `README-PROJECT.md` — Project structure guide
   - `MASTER-INDEX.md` — This index
   - Multiple PDF/HTML/EPUB exports (various editions)
 
-### The Story Structure (21 chapters across 4 acts)
-- **Act I (Ch 1-4):** Wiring — NICU, domestic violence, nervous system formation
-- **Act II (Ch 5-9):** Cost of High Alert — relationships, patterns, escalation
-- **Act III (Ch 10-16):** Present Cost — C-PTSD effects, flashbacks, roles, grief
-- **Act IV (Ch 17-20):** Building Agency — safety, regulation, boundaries, integration
+### The Story Structure (25 chapters across 5 parts)
+- **Part I (Ch 1–4):** The Foundations
+- **Part II (Ch 5–7):** Entanglement and Escalation
+- **Part III (Ch 8–10):** Inferno and Isolation
+- **Part IV (Ch 11–17):** Decoding the Fire
+- **Part V (Ch 18–25):** Reckoning and Rising
+- **Closing:** Final Thought — The Ember That Stayed
 
 ### Supporting FTSTTF Repositories
 - **`from-storm-to-fire-book-production`** — Production workflow (Python)
@@ -178,9 +181,9 @@ FROM THE STORM TO THE FIRE (Memoir)
 
 | **If you need...** | **Look in...** |
 |---|---|
-| Full manuscript text | `from-the-storm-to-the-fire/updated_book.md` |
-| Book table of contents | `from-the-storm-to-the-fire/chapters.md` |
-| 20-chapter chapter descriptions | `from-the-storm-to-the-fire/chapters.md` |
+| Current full manuscript | `from-the-storm-to-the-fire/downloads/From-the-Storm-to-the-Fire-Complete-25-Chapter-Master.docx` and `read-first/index.html` |
+| Current book table of contents | `from-the-storm-to-the-fire/chapters.md` |
+| Online reader | `https://daniel-lingar.github.io/from-the-storm-to-the-fire/read-first/` |
 | WRH curriculum sessions (30+) | `wrh-master-platform/curriculum/` |
 | Facilitator guidance | `What-Really-Happened/facilitator-manual.md` |
 | The 26 Laws of Survival (clinical map) | `26laws/` repo |
@@ -198,7 +201,7 @@ FROM THE STORM TO THE FIRE (Memoir)
 
 | **Project** | **Status** | **Last Updated** |
 |---|---|---|
-| From the Storm to the Fire | ✅ COMPLETE | Published in multiple formats |
+| From the Storm to the Fire | ✅ LIVE | Complete 25-Chapter Master reader; older exports archived |
 | WRH Master Platform | ✅ ACTIVE | All components in place |
 | WRH Pilot Deployment Package | 🔄 IN PROGRESS | Field testing in real environments |
 | The Rescue Boat (v1.0.0) | ✅ COMPLETE | Locked public edition |

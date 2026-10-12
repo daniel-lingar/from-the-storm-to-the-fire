@@ -2,36 +2,23 @@
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  
-  <!-- SEO Meta Tags -->
   <meta name="description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
   <meta name="author" content="{{ site.author.name }}">
-  <meta name="keywords" content="Complex PTSD, trauma recovery, memoir, mental health, healing, neuroscience, CPTSD">
-  
-  <!-- Open Graph / Social Media Meta Tags -->
+  <meta name="keywords" content="memoir, trauma memoir, addiction memoir, grief, recovery, From the Storm to the Fire">
   <meta property="og:type" content="website">
   <meta property="og:title" content="{% if page.title %}{{ page.title }} | {{ site.title }}{% else %}{{ site.title }}{% endif %}">
   <meta property="og:description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
   <meta property="og:url" content="{{ page.url | absolute_url }}">
   <meta property="og:site_name" content="{{ site.title }}">
-  <meta property="og:image" content="{{ '/assets/images/phoenix.jpg' | absolute_url }}">
-  
-  <!-- Twitter Card Meta Tags -->
+  <meta property="og:image" content="{{ '/assets/images/storm-ember-hero.webp' | absolute_url }}">
   <meta name="twitter:card" content="summary_large_image">
   <meta name="twitter:title" content="{% if page.title %}{{ page.title }} | {{ site.title }}{% else %}{{ site.title }}{% endif %}">
   <meta name="twitter:description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
-  <meta name="twitter:image" content="{{ '/assets/images/phoenix.jpg' | absolute_url }}">
-  
-  <!-- Favicon -->
-  <link rel="icon" type="image/png" href="{{ '/assets/images/phoenix.jpg' | relative_url }}">
-  
-  <!-- Google Fonts -->
-  <link rel="preconnect" href="https://fonts.googleapis.com">
-  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=Playfair+Display:wght@400;600;700;800&display=swap" rel="stylesheet">
-  
+  <meta name="twitter:image" content="{{ '/assets/images/storm-ember-hero.webp' | absolute_url }}">
+  <link rel="icon" type="image/svg+xml" href="{{ '/assets/images/ember-mark.svg' | relative_url }}">
   {%- seo -%}
-  <link rel="stylesheet" href="{{ "/assets/css/style.css" | relative_url }}">
+  <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+  <link rel="stylesheet" href="{{ '/assets/css/site-theme.css' | relative_url }}">
   {%- feed_meta -%}
   {%- if jekyll.environment == 'production' and site.google_analytics -%}
     {%- include google-analytics.html -%}

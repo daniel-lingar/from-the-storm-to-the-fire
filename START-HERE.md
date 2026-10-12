@@ -1,55 +1,29 @@
 # Start Here — From the Storm to the Fire
 
-**From the Storm to the Fire: The Truth Behind the Silence** is the memoir source project connected to the larger WRH Project System and Capitol Contracts LLC.
+**From the Storm to the Fire: The Truth Behind the Silence** is a memoir by Daniel “Bret” Lingar and part of the broader WRH project ecosystem.
 
-This repository contains the personal narrative foundation behind the WRH public articles, Top 10 Core, pilot package, and 75-session master curriculum.
+## Current public edition
 
-## What This Repo Is
+The live reader and site navigation use the **Complete 25-Chapter Master**: 25 chapters in five parts, followed by the final thought.
 
-This is the memoir and source-story repository.
+- [Read the complete book online](https://daniel-lingar.github.io/from-the-storm-to-the-fire/read-first/)
+- [Browse the contents](https://daniel-lingar.github.io/from-the-storm-to-the-fire/chapters/)
+- [Download the Word master](https://daniel-lingar.github.io/from-the-storm-to-the-fire/downloads/From-the-Storm-to-the-Fire-Complete-25-Chapter-Master.docx)
+- [View the source DOCX in this repository](downloads/From-the-Storm-to-the-Fire-Complete-25-Chapter-Master.docx)
 
-The book explores trauma, addiction, grief, shame, Complex PTSD, family loss, survival behavior, accountability, and recovery through Daniel “Bret” Lingar’s lived experience.
+Older drafts, exports, and the previous public reader are preserved in `_archive/` for history; they are not the linked live edition.
 
-The memoir is not the same thing as the WRH curriculum. The memoir tells the story. WRH turns selected patterns from that story into structured, non-clinical psychoeducational tools.
+## What the memoir explores
 
-## How It Fits in the WRH System
+The book addresses trauma, addiction, grief, shame, family loss, survival behavior, accountability, and recovery through the author’s lived experience. It is distinct from the non-clinical psychoeducational tools developed under the What Really Happened (WRH) project.
 
-**Memoir** → **Public Articles** → **Top 10 Core** → **Pilot Deployment Package** → **WRH Master Curriculum** → **Capitol Contracts LLC**
+## Content note
 
-- **Memoir:** The lived story and source material.
-- **Articles:** Public counter-narratives that translate survival patterns into plain language.
-- **Top 10 Core:** A shorter 5-week introduction to the WRH language.
-- **Pilot Package:** A 30-session implementation and field-test structure.
-- **Master Curriculum:** The full 75-session WRH architecture.
-- **Capitol Contracts LLC:** The business and implementation vehicle.
+The memoir contains direct discussion of childhood violence, addiction, grief, suicide and suicidal thoughts, family conflict, medical problems, and legal consequences. Read at your own pace. It is not therapy, medical advice, legal advice, diagnosis, treatment, or a substitute for licensed professional support. The reader’s opening content note includes U.S. support information.
 
-## First-Time Visitor Path
+## Related projects
 
-Start here if you are trying to understand the whole ecosystem:
-
-1. **Main WRH public hub:** https://mave9055.github.io/Mave9055/
-2. **Repository showcase:** https://mave9055.github.io/Mave9055/repo-showcase.html
-3. **WRH Master Curriculum:** https://github.com/Mave9055/wrh-master-curriculum
-4. **Capitol Contracts LLC:** https://github.com/Mave9055/capitol-contracts
-
-## Reader Note
-
-This memoir contains direct discussion of trauma, addiction, grief, shame, family conflict, legal consequences, and recovery.
-
-The work is written as memoir and lived-experience analysis. It is not therapy, medical advice, legal advice, diagnosis, treatment, or a substitute for licensed professional support.
-
-## Public Contact
-
-For inquiries, pilot conversations, capability materials, or implementation discussions:
-
-**capitolcontracts@outlook.com**
-
-## Repository Cleanup Note
-
-This repository may contain multiple manuscript drafts, exports, or PDF editions. The public-facing goal is to preserve the writing while making the repo easier for first-time visitors to navigate.
-
-No draft or export should be treated as the official public version unless it is clearly labeled as current or final.
-
----
-
-*Part of the WRH Project System / Capitol Contracts LLC public ecosystem.*
+- [WRH Master Curriculum](https://github.com/Mave9055/wrh-master-curriculum)
+- [WRH Pilot Deployment Package](https://github.com/Mave9055/WRH-Pilot-Deployment-Package)
+- [The Rescue Boat & Other Counter-Narratives](https://github.com/Mave9055/ebook-manuscript)
+- [Book Production Workflow](https://github.com/Mave9055/from-storm-to-fire-book-production)

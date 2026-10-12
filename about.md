@@ -1,80 +1,25 @@
 ---
 layout: default
 title: About the Author
-description: Daniel Lingar writes about Complex PTSD, trauma recovery, and nervous system regulation with fierce honesty and neuroscience grounding.
+description: "Daniel ‘Bret’ Lingar is the author of From the Storm to the Fire: The Truth Behind the Silence, a 25-chapter memoir about trauma, grief, addiction, accountability, and recovery."
 ---
 
-<div class="wrapper">
+<section class="about-page">
+  <p class="reader-eyebrow">ABOUT THE AUTHOR</p>
+  <h1>Daniel “Bret” Lingar</h1>
+  <p class="about-lead">A memoirist writing from lived experience about trauma, grief, addiction, family fracture, accountability, and the ongoing work of repair.</p>
 
-<div class="about-hero fade-in">
-  <h1>About the Author</h1>
-  <p style="font-size: 1.3rem; font-style: italic; color: #555; max-width: 700px; margin: 1.5rem auto;">
-    I didn't write this book to inspire anyone. I wrote it because trauma has a way of making people doubt their own reality — and I'm done letting that happen.
-  </p>
-</div>
+  <h2>About the book</h2>
+  <p><em>From the Storm to the Fire: The Truth Behind the Silence</em> is the Complete 25-Chapter Master, arranged in five parts. It moves from the author’s remembered life toward an attempt to understand the patterns that shaped it, while keeping explanation distinct from excuse.</p>
+  <p>The online reader and the downloadable Word manuscript both use the same 25-chapter source. The earlier public reader and older draft exports remain archived in the repository rather than linked as the current edition.</p>
 
----
+  <div class="about-actions">
+    <a class="reader-button" href="{{ '/read-first/' | relative_url }}">Read the complete book</a>
+    <a class="reader-button reader-button-outline" href="{{ '/downloads/From-the-Storm-to-the-Fire-Complete-25-Chapter-Master.docx' | relative_url }}" download>Download the Word master</a>
+    <a class="about-link" href="{{ '/chapters/' | relative_url }}">Browse all 25 chapters</a>
+  </div>
 
-<div class="fade-in-delay-1">
-
-## The Work
-
-My work blends **lived experience** with neuroscience, attachment theory, and trauma research. I focus on how Complex PTSD actually operates in the body: the **amygdala**, the **HPA axis**, the **vagus nerve** — not just feelings, but systems.
-
-This book is what I needed years before I had the language to ask for it.
-
-</div>
-
----
-
-<div class="fade-in-delay-2">
-
-## Why This Book Exists
-
-> "I didn't write this book to tell a story of victimization; I wrote it to dismantle the lie that we are permanently broken by what happened to us. Every single person who has survived a storm carries the blueprint for their own healing within them. We just have to learn how to read the map."
-
-</div>
-
----
-
-<div class="fade-in-delay-3">
-
-## Background
-
-**Daniel Lingar** is an advocate, writer, and teacher focused on the intersection of complex trauma, addiction recovery, and nervous system regulation.
-
-*From the Storm to the Fire* is his first memoir, chronicling his personal journey out of the trauma-to-chaos blueprint and into self-sovereignty.
-
-His approach combines:
-
-- **Neuroscience-grounded understanding** of trauma and the nervous system
-- **Lived experience** with Complex PTSD and recovery
-- **Practical frameworks** like the Glass Box Blueprint for healing
-- **Fierce honesty** about the real cost of survival
-
-</div>
-
----
-
-<div style="background: linear-gradient(135deg, rgba(211, 84, 0, 0.1) 0%, rgba(230, 126, 34, 0.1) 100%); padding: 3rem 2rem; border-radius: 16px; text-align: center; margin: 3rem 0;">
-
-### The Mission
-
-**This book exists because surviving without understanding costs people years of their lives.**
-
-Language is the difference between self-blame and agency.
-
-Understanding is the difference between repeating patterns and breaking free.
-
-This memoir gives you both.
-
-</div>
-
----
-
-<div style="text-align: center; margin: 3rem 0;">
-  <a href="/from-the-storm-to-the-fire/" class="cta-button secondary">← Back to Home</a>
-  <a href="/from-the-storm-to-the-fire/chapters/chapter-01-born-alert.html" class="cta-button primary">Start Reading →</a>
-</div>
-
-</div>
+  <aside class="about-note">
+    This memoir reflects the author’s experience and perspective; it is not medical, psychological, legal, or professional advice. See the book’s content note before reading.
+  </aside>
+</section>

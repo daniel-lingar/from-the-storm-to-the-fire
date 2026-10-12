@@ -2,57 +2,30 @@
 
 **From the Storm to the Fire: The Truth Behind the Silence** is a memoir and lived-experience source project by Daniel “Bret” Lingar.
 
-The book explores trauma, addiction, Complex PTSD, grief, shame, family loss, relapse, recovery, accountability, and the process of turning survival patterns into language.
+## Current public edition
 
-This repository is connected to the larger **What Really Happened (WRH)** project system, but the memoir remains distinct from the non-clinical curriculum materials.
+The website and reader use the **Complete 25-Chapter Master**, the most complete supplied manuscript: 25 chapters across five parts, followed by the final thought. The original Word file is included in the repository and the reader presents its text in an accessible, responsive web layout.
 
-## Purpose
+- `downloads/From-the-Storm-to-the-Fire-Complete-25-Chapter-Master.docx` — source manuscript
+- `read-first/index.html` — complete online reader
+- `chapters.md` — current table of contents, linked to the reader’s chapter anchors
+- `index.html` — public book showcase
+- `about.md` — author page
+- `assets/css/book-reader.css` — reader typography and layout
+- `assets/css/site-theme.css` — black, white, gold, and restrained-purple shared theme
+- `_archive/` — prior reader, earlier working sources, and superseded exports retained as history
 
-This project exists to preserve the source manuscript, public framing, and editorial direction for the book.
+The live website links to the current reader and source download. Archived drafts are not the current edition.
 
-The memoir is not written as therapy, diagnosis, legal argument, medical advice, or professional instruction. It is a personal narrative and reflective account of lived experience.
+## Scope boundary
 
-## Relationship to WRH
+The memoir discusses childhood trauma, addiction, grief, suicide, domestic violence, family conflict, legal consequences, and recovery. It is personal narrative and reflection, not medical advice, psychological advice, legal advice, crisis care, or a substitute for licensed professional support.
 
-The memoir provides part of the lived-experience foundation behind WRH’s language system. The curriculum translates mechanisms such as freeze, shame, avoidance, collapse, and nervous-system adaptation into non-clinical educational tools.
+The book is distinct from the broader What Really Happened (WRH) curriculum: the memoir tells a personal story; WRH translates selected patterns into non-clinical psychoeducational tools.
 
-The book tells the story.
-
-WRH turns selected patterns into structured psychoeducation.
-
-## Scope Boundary
-
-This repository may include intense material related to childhood trauma, addiction, grief, suicide, domestic violence, legal consequences, and recovery.
-
-Nothing in this repository should be treated as medical advice, psychological advice, legal advice, crisis care, or a substitute for licensed professional support.
-
-## Suggested Repository Structure
-
-A cleaner long-term structure would be:
-
-```text
-README.md                 # Public project overview
-README-PROJECT.md         # This repository map / overview
-book/
-  front-matter.md
-  preface-the-wiring.md
-  prologue-the-predictive-model.md
-  chapters/
-    chapter-01.md
-    chapter-02.md
-    ...
-exports/
-  samples/
-  final/
-```
-
-## Related Repositories
+## Related repositories
 
 - [WRH Master Curriculum](https://github.com/Mave9055/wrh-master-curriculum)
 - [WRH Pilot Deployment Package](https://github.com/Mave9055/WRH-Pilot-Deployment-Package)
 - [The Rescue Boat & Other Counter-Narratives](https://github.com/Mave9055/ebook-manuscript)
-- [Book Production Workflow](https://github.com/Mave9055/from-storm-to-fire-book-production)
-
----
-
-*Daniel “Bret” Lingar | From the Storm to the Fire | Project Overview*
+- [Book Production Workflow](https://github.com/daniel-lingar/from-storm-to-fire-book-production)
